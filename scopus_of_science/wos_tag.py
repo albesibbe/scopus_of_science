@@ -28,6 +28,13 @@ diz= {
     
 }
 
+vals = ['Authors', 'Author(s) ID', 'Title', 'Year', 'Source title', 'Volume', 'Issue', 'Art. No.', \
+        'Page start', 'Page end', 'Page count', 'Cited by', 'DOI', 'Link', 'Affiliations', 'Authors with affiliations', \
+        'Abstract', 'Chemicals/CAS', 'Tradenames', 'Manufacturers', 'Funding Details', 'Funding Text 1', 'Funding Text 2', \
+        'References', 'Correspondence Address', 'Editors', 'Sponsors', 'Publisher', 'Conference name', 'Conference date', \
+        'Conference location', 'Conference code', 'ISSN', 'ISBN', 'CODEN', 'PubMed ID', 'Language of Original Document', \
+        'Abbreviated Source Title', 'Document Type', 'Publication Stage', 'Access Type', 'Source', 'EID']
+
 # diz= {
 #     'AU' : 'Authors',
 #     'XXX' : 'Author(s) ID',

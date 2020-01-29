@@ -4,4 +4,4 @@ __author__ = 'Alberto Silvestri'
 __licence__ = 'MIT'
 __copyright__ = 'Copyright 2020 Alberto Silvestri'
 
-from .conversion import Sos
+# from .conversion import Sos
