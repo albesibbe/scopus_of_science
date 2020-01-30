@@ -1,4 +1,4 @@
-import scopus_of_science.wos_tag as wt
+import scopus_of_science.constants as cons
 import pandas as pd
 import re
 from .file_handler import File_Handler
@@ -23,10 +23,10 @@ class WOS(File_Handler):
             return "; ".join(aut_corrected)
 
     def convert(self):
-        self.data.rename(columns=wt.diz, inplace=True)
+        self.data.rename(columns=cons.DIC, inplace=True)
         self.data['Authors'] = self.data['Authors'].apply(self.scopus_author_format)
         self.data.drop([col for col in self.data.columns if len(col) <= 2], axis=1, inplace=True)
-        headers = pd.DataFrame(columns=wt.vals)
+        headers = pd.DataFrame(columns=cons.S_TAGS)
         self.data['Source'] = 'WoS'
         self.data = pd.concat([headers, self.data], axis=0, ignore_index=True, sort=False)
 
