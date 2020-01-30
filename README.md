@@ -1,5 +1,5 @@
 # scopus_of_science
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
 ## Installation
 ```
@@ -9,11 +9,15 @@ pip install scopus_of_science
 ## Usage
 
 ```
->>> from scopus_of_science import scopus_of_science
+>>> from scopus_of_science import sos
 
->>> scopus_of_science.test()
+>>> s = sos.SOS(sco=["datasets/scopus.csv"], wos=["datasets/wos1-500.txt", "datasets/wos501-526.txt"])
 
-"Hello, Science!"
+>>> data = s.get()
+
+>>> print(data)
+
+>>> data.to_excel("exel_filename.xlsx")
 
 ```
 

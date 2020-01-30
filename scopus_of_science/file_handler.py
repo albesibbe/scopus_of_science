@@ -8,7 +8,6 @@ class File_Handler:
             self.read_file()
         else:
             raise TypeError("No same extension.")
-        print(path)
 
     def read_file(self):
         extension = os.path.splitext(self.path[0])[1]
@@ -19,6 +18,9 @@ class File_Handler:
             else:
                 df = pd.read_csv(filename, sep='\t', header=0, index_col=False)
             li.append(df)
+        self.concat(li)
+
+    def concat(self, li):
         self.data = pd.concat(li, axis=0, ignore_index=True, sort=False)
 
     def check_consistency(self):
@@ -27,4 +29,6 @@ class File_Handler:
             if os.path.splitext(f)[1] != extension:
                 return False
         return True
-            
+    
+    def get(self):
+        return self.data
