@@ -25,7 +25,6 @@ DIC = {
     'DT' : 'Document Type',
     'OA' : 'Access Type', 
     'FU' : 'Funding Details',
-    
 }
 
 S_TAGS = ['Authors', 'Author(s) ID', 'Title', 'Year', 'Source title', 'Volume', 'Issue', 'Art. No.', \

@@ -16,8 +16,8 @@ setup(name='scopus_of_science',
           'pandas',
       ],
       classifiers=[
-        "Programming Language :: Python :: 3.7",
-        "License :: OSI Approved :: GPL v3 License",
+        "Programming Language :: Python :: 3",
+        "License :: OSI Approved :: GNU General Public License v3 (GPLv3)",
         "Operating System :: OS Independent",
       ],
       zip_safe=False)

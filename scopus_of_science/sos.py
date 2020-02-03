@@ -1,7 +1,7 @@
 import scopus_of_science.constants as cons
 import pandas as pd
 import re
-from .file_handler import File_Handler
+from scopus_of_science.file_handler import File_Handler
 
 class WOS(File_Handler):
     def __init__(self, path, convert=True):
