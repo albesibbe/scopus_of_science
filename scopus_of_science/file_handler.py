@@ -3,11 +3,14 @@ import os.path
 
 class File_Handler:
     def __init__(self, path):
-        self.path = path
+        if isinstance(path, str):
+            self.path = [path]
+        else:
+            self.path = path
         if self.check_consistency():
             self.read_file()
         else:
-            raise TypeError("No same extension.")
+            raise TypeError("Files have different extension.")
 
     def read_file(self):
         extension = os.path.splitext(self.path[0])[1]
@@ -16,7 +19,10 @@ class File_Handler:
             if extension == '.csv':
                 df = pd.read_csv(filename)
             else:
-                df = pd.read_csv(filename, sep='\t', header=0, index_col=False)
+                try:
+                    df = pd.read_csv(filename, sep='\t', header=0, index_col=False)
+                except UnicodeDecodeError:
+                    df = pd.read_csv(filename, sep='\t', header=0, index_col=False, encoding='utf-16')
             li.append(df)
         self.concat(li)
 

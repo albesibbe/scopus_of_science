@@ -37,12 +37,22 @@ class SCO(File_Handler):
 
 
 class SOS(File_Handler):
-    def __init__(self, sco=[], wos=[]):
-        self.sco_data = SCO(sco).get()
-        self.wos_data = WOS(wos).get()
+    def __init__(self, sco=None, wos=None, duplicates=False):
+        if sco is None and wos is None:
+            raise FileNotFoundError('No file selected.')
+        if sco is not None and wos is None:
+            self.sco_data = SCO(sco).get()
+            self.wos_data = pd.DataFrame()
+        elif sco is None and wos is not None:
+            self.sco_data = pd.DataFrame()
+            self.wos_data = WOS(wos).get()
+        else:
+            self.sco_data = SCO(sco).get()
+            self.wos_data = WOS(wos).get()
         self.concat([self.sco_data, self.wos_data])
         print("Database has " + str(self.data.shape[0]) + " total publications")
-        self.remove_duplicates()
+        if not duplicates:
+            self.remove_duplicates()
 
     def remove_duplicates(self):
         data_copied = self.data.copy()
