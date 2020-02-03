@@ -15,6 +15,7 @@ setup(name='scopus_of_science',
       install_requires=[
           'pandas',
       ],
+      keywords=['Scopus', 'Web of Science', 'wos'],
       classifiers=[
         "Programming Language :: Python :: 3",
         "License :: OSI Approved :: GNU General Public License v3 (GPLv3)",

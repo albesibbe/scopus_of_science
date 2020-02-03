@@ -9,7 +9,7 @@ softwares for bibliographic analysis (such as [**VOSviewer**][VOSviewer])
 
 [VOSviewer]: https://www.vosviewer.com/
 
-## Installation (Not on pip yet, clone the repository instead)
+## Installation
 ```python
 pip install scopus_of_science
 ```
