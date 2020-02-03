@@ -1,5 +1,6 @@
 # scopus_of_science
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+[![Build Status](https://travis-ci.com/albesibbe/scopus_of_science.svg?branch=master)](https://travis-ci.com/albesibbe/scopus_of_science)
 
 ## Description
 This package merges databases downloaded from Scopus (.csv) and Web of Science (.txt). 
