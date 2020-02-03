@@ -2,9 +2,9 @@
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
 ## Description
-This package merges databases downloaded from Scopus (.csv) and Web of Science (.txt) 
-and return a pandas DataFrame which can be saved as a Scopus .csv file compatible with 
-software for bibliographic analysis (such as [**VOSviewer**][VOSviewer]) 
+This package merges databases downloaded from Scopus (.csv) and Web of Science (.txt). 
+It returns a pandas DataFrame which can be saved as a Scopus .csv file compatible with 
+softwares for bibliographic analysis (such as [**VOSviewer**][VOSviewer]) 
 
 [VOSviewer]: https://www.vosviewer.com/
 
