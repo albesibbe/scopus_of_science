@@ -17,12 +17,14 @@ class File_Handler:
         li = []
         for filename in self.path:
             if extension == '.csv':
-                df = pd.read_csv(filename)
+                df = pd.read_csv(filename, dtype=str)
             else:
                 try:
-                    df = pd.read_csv(filename, sep='\t', header=0, index_col=False)
+                    df = pd.read_csv(filename, sep='\t', header=0, index_col=False,
+                                     dtype=str)
                 except UnicodeDecodeError:
-                    df = pd.read_csv(filename, sep='\t', header=0, index_col=False, encoding='utf-16')
+                    df = pd.read_csv(filename, sep='\t', header=0, index_col=False,
+                                     dtype=str, encoding='utf-16')
             li.append(df)
         self.concat(li)
 

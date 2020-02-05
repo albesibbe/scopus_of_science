@@ -16,15 +16,15 @@ pip install scopus_of_science
 ## Usage
 
 ```python
->>> from scopus_of_science import sos
+from scopus_of_science import sos
 
->>> s = sos.SOS(sco="datasets/scopus.csv", wos=["datasets/wos1-500.txt", "datasets/wos501-526.txt"])
+s = sos.SOS(sco="datasets/scopus.csv", wos=["datasets/wos1.txt", "datasets/wos2.txt"])
 
->>> data = s.get()
+data = s.get()
 
->>> print(data)
+print(data)
 
->>> data.to_csv("exel_filename.csv")
+data.to_csv("csv_filename.csv", index=False)
 
 ```
 ## Dependencies
