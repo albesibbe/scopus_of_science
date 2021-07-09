@@ -4,7 +4,7 @@ with open('README.md') as f:
     long_description = f.read()
 
 setup(name='scopus_of_science',
-      version='0.0.2',
+      version='0.0.3',
       description='Merge Scopus and WoS databases in Scopus csv format',
       url='https://github.com/albesibbe/scopus_of_science',
       author='Alberto Silvestri',
@@ -14,6 +14,8 @@ setup(name='scopus_of_science',
       packages=find_packages(),
       install_requires=[
           'pandas',
+          're',
+          'os',
       ],
       keywords=['Scopus', 'Web of Science', 'wos'],
       classifiers=[

@@ -1,5 +1,7 @@
 import pandas as pd
 import os.path
+import re
+
 
 class File_Handler:
     def __init__(self, path):
@@ -19,12 +21,18 @@ class File_Handler:
             if extension == '.csv':
                 df = pd.read_csv(filename, dtype=str)
             else:
-                try:
-                    df = pd.read_csv(filename, sep='\t', header=0, index_col=False,
-                                     dtype=str)
-                except UnicodeDecodeError:
-                    df = pd.read_csv(filename, sep='\t', header=0, index_col=False,
-                                     dtype=str, encoding='utf-16')
+                with open(filename) as f:
+                    content = f.read()
+                content = content.replace('\n  ', ';')
+                documents = content.split("\n\n")
+                documents[0] = 'PT' + documents[0].split("PT")[1]
+                documents = documents[0:-1]
+                data = []
+                for document in documents:
+                    fields = dict(re.findall("\n?(\w{2,2})\s?(.*)", document))
+                    data.append(fields)
+                df = pd.DataFrame(data)
+
             li.append(df)
         self.concat(li)
 
@@ -37,6 +45,6 @@ class File_Handler:
             if os.path.splitext(f)[1] != extension:
                 return False
         return True
-    
+
     def get(self):
         return self.data

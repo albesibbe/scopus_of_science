@@ -1,0 +1,2721 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Rasheed, F
+   Yau, KLA
+   Noor, RM
+   Wu, C
+   Low, YC
+AF Rasheed, Faizan
+   Yau, Kok-Lim Alvin
+   Noor, Rafidah Md.
+   Wu, Celimuge
+   Low, Yeh-Ching
+TI Deep Reinforcement Learning for Traffic Signal Control: A Review
+SO IEEE ACCESS
+LA English
+DT Review
+DE Reinforcement learning; Deep learning; Neurons; Computational modeling;
+   Analytical models; Complexity theory; Licenses; Artificial intelligence;
+   deep learning; deep reinforcement learning; traffic signal control
+ID REAL-TIME; CONTROL-SYSTEM; SIMULATION; INTELLIGENCE; ALGORITHMS;
+   NETWORKS; MODEL
+AB Traffic congestion is a complex, vexing, and growing issue day by day in most urban areas worldwide. The integration of the newly emerging deep learning approach and the traditional reinforcement learning approach has created an advanced approach called deep reinforcement learning (DRL) that has shown promising results in solving high-dimensional and complex problems, including traffic congestion. This article presents a review of the attributes of traffic signal control (TSC), as well as DRL architectures and methods applied to TSC, which helps to understand how DRL has been applied to address traffic congestion and achieve performance enhancement. The review also covers simulation platforms, a complexity analysis, as well as guidelines and design considerations for the application of DRL to TSC. Finally, this article presents open issues and new research areas with the objective to spark new interest in this research field. To the best of our knowledge, this is the first review article that focuses on the application of DRL to TSC.
+C1 [Rasheed, Faizan; Yau, Kok-Lim Alvin; Low, Yeh-Ching] Sunway Univ, Dept Comp & Informat Syst, Subang Jaya 47500, Malaysia.
+   [Noor, Rafidah Md.] Univ Malaya, Fac Comp Sci & Informat Technol, Kuala Lumpur 50603, Malaysia.
+   [Wu, Celimuge] Univ Electrocommun, Grad Sch Informat & Engn, Tokyo 1828585, Japan.
+RP Yau, KLA (corresponding author), Sunway Univ, Dept Comp & Informat Syst, Subang Jaya 47500, Malaysia.
+EM koklimy@sunway.edu.my
+RI Wu, Celimuge/I-4703-2013; Rasheed, Faizan/ABC-9488-2020; Noor, Ts. Dr.
+   Rafidah Md/B-5445-2010; Yau, Kok Lim/B-1672-2012
+OI Noor, Ts. Dr. Rafidah Md/0000-0001-6266-2390; Rasheed,
+   Faizan/0000-0002-8908-8883; Wu, Celimuge/0000-0001-6853-5878; Low, Yeh
+   Ching/0000-0003-3450-2538; Yau, Kok Lim/0000-0003-3110-2782
+FU Novel Clustering algorithm based on Reinforcement Learning for the
+   Optimization of Global and Local Network Performances in Mobile Networks
+   - Malaysian Ministry of Education through Fundamental Research Grant
+   Scheme [FRGS/1/2019/ICT03/SYUC/01/1]; Sunway University
+   [CR-UM-SST-DCIS-2018-01, RK004-2017]; University of MalayaUniversiti
+   Malaya [CR-UM-SST-DCIS-2018-01, RK004-2017]
+FX This work was supported in part by A Novel Clustering algorithm based on
+   Reinforcement Learning for the Optimization of Global and Local Network
+   Performances in Mobile Networks funded by the Malaysian Ministry of
+   Education through Fundamental Research Grant Scheme under Grant
+   FRGS/1/2019/ICT03/SYUC/01/1, and in part by the Partnership between
+   Sunway University and the University of Malaya under Grant
+   CR-UM-SST-DCIS-2018-01 and Grant RK004-2017.
+NR 115
+TC 0
+Z9 0
+U1 4
+U2 7
+PU IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC
+PI PISCATAWAY
+PA 445 HOES LANE, PISCATAWAY, NJ 08855-4141 USA
+SN 2169-3536
+J9 IEEE ACCESS
+JI IEEE Access
+PY 2020
+VL 8
+BP 208016
+EP 208044
+DI 10.1109/ACCESS.2020.3034141
+PG 29
+WC Computer Science, Information Systems; Engineering, Electrical &
+   Electronic; Telecommunications
+SC Computer Science; Engineering; Telecommunications
+GA OZ6GB
+UT WOS:000595021100001
+OA DOAJ Gold
+DA 2021-07-09
+ER
+
+PT B
+AU Maimon, O
+   Cohen, S
+AF Maimon, Oded
+   Cohen, Shahar
+BE Maimon, O
+   Rokach, L
+TI A Review of Reinforcement Learning Methods
+SO DATA MINING AND KNOWLEDGE DISCOVERY HANDBOOK, SECOND EDITION
+LA English
+DT Article; Book Chapter
+DE Reinforcement-Learning
+ID FEATURE SET DECOMPOSITION; CLASSIFICATION
+AB Reinforcement-Learning is learning how to best-react to situations, through trial and error. In the Machine-Learning community Reinforcement-Learning is researched with respect to artificial (machine) decision-makers, referred to as agents. The agents are assumed to be situated within an environment which behaves as a Markov Decision Process. This chapter provides a brief introduction to Reinforcement-Learning, and establishes its relation to Data-Mining. Specifically, the Reinforcement-Learning problem is defined; a few key ideas for solving it are described; the relevance to Data-Mining is explained; and an instructive example is presented.
+C1 [Maimon, Oded; Cohen, Shahar] Tel Aviv Univ, Dept Ind Engn, IL-69978 Ramat Aviv, Israel.
+RP Maimon, O (corresponding author), Tel Aviv Univ, Dept Ind Engn, IL-69978 Ramat Aviv, Israel.
+EM maimon@eng.tau.ac.il
+NR 42
+TC 1
+Z9 1
+U1 0
+U2 2
+PU SPRINGER
+PI NEW YORK
+PA 233 SPRING STREET, NEW YORK, NY 10013, UNITED STATES
+BN 978-0-387-09822-7
+PY 2010
+BP 401
+EP 417
+DI 10.1007/978-0-387-09823-4_20
+D2 10.1007/978-0-387-09823-4
+PG 17
+WC Computer Science, Artificial Intelligence
+SC Computer Science
+GA BVX97
+UT WOS:000293102200020
+DA 2021-07-09
+ER
+
+PT J
+AU Canese, L
+   Cardarilli, GC
+   Di Nunzio, L
+   Fazzolari, R
+   Giardino, D
+   Re, M
+   Spano, S
+AF Canese, Lorenzo
+   Cardarilli, Gian Carlo
+   Di Nunzio, Luca
+   Fazzolari, Rocco
+   Giardino, Daniele
+   Re, Marco
+   Spano, Sergio
+TI Multi-Agent Reinforcement Learning: A Review of Challenges and
+   Applications
+SO APPLIED SCIENCES-BASEL
+LA English
+DT Review
+DE machine learning; reinforcement learning; multi-agent; swarm
+ID FRAMEWORK; SHOGI; CHESS; GO
+AB In this review, we present an analysis of the most used multi-agent reinforcement learning algorithms. Starting with the single-agent reinforcement learning algorithms, we focus on the most critical issues that must be taken into account in their extension to multi-agent scenarios. The analyzed algorithms were grouped according to their features. We present a detailed taxonomy of the main multi-agent approaches proposed in the literature, focusing on their related mathematical models. For each algorithm, we describe the possible application fields, while pointing out its pros and cons. The described multi-agent algorithms are compared in terms of the most important characteristics for multi-agent reinforcement learning applications-namely, nonstationarity, scalability, and observability. We also describe the most common benchmark environments used to evaluate the performances of the considered methods.
+C1 [Canese, Lorenzo; Cardarilli, Gian Carlo; Di Nunzio, Luca; Fazzolari, Rocco; Giardino, Daniele; Re, Marco; Spano, Sergio] Univ Roma Tor Vergata, Dept Elect Engn, Via Politecn 1, I-00133 Rome, Italy.
+RP Spano, S (corresponding author), Univ Roma Tor Vergata, Dept Elect Engn, Via Politecn 1, I-00133 Rome, Italy.
+EM lorenzo.canese@students.uniroma2.eu; g.cardarilli@uniroma2.it;
+   di.nunzio@ing.uniroma2.it; fazzolari@ing.uniroma2.it;
+   giardino@ing.uniroma2.it; marco.re@uniroma2; spano@ing.uniroma2.it
+OI Fazzolari, Rocco/0000-0002-7383-2663; Spano, Sergio/0000-0002-8230-7211
+NR 68
+TC 0
+Z9 0
+U1 0
+U2 0
+PU MDPI
+PI BASEL
+PA ST ALBAN-ANLAGE 66, CH-4052 BASEL, SWITZERLAND
+EI 2076-3417
+J9 APPL SCI-BASEL
+JI Appl. Sci.-Basel
+PD JUN
+PY 2021
+VL 11
+IS 11
+AR 4948
+DI 10.3390/app11114948
+PG 25
+WC Chemistry, Multidisciplinary; Engineering, Multidisciplinary; Materials
+   Science, Multidisciplinary; Physics, Applied
+SC Chemistry; Engineering; Materials Science; Physics
+GA SP3UU
+UT WOS:000659598000001
+OA DOAJ Gold
+DA 2021-07-09
+ER
+
+PT B
+AU Shao, ZF
+   Joo, EM
+AF Shao Zhifei
+   Joo, Er Meng
+GP IEEE
+TI A Review of Inverse Reinforcement Learning Theory and Recent Advances
+SO 2012 IEEE CONGRESS ON EVOLUTIONARY COMPUTATION (CEC)
+SE IEEE Congress on Evolutionary Computation
+LA English
+DT Proceedings Paper
+CT IEEE Congress on Evolutionary Computation (CEC)
+CY JUN 10-15, 2012
+CL Brisbane, AUSTRALIA
+SP IEEE
+DE Reinforcement learning; inverse reinforcement learning; reward function;
+   expert demonstration
+ID ROBOT
+AB A major challenge faced by machine learning community is the decision making problems under uncertainty. Reinforcement Learning (RL) techniques provide a powerful solution for it. An agent used by RL interacts with a dynamic environment and finds a policy through a reward function, without using target labels like Supervised Learning (SL).
+   However, one fundamental assumption of existing RL algorithms is that reward function, the most succinct representation of the designer's intention, needs to be provided beforehand. In practice, the reward function can be very hard to specify and exhaustive to tune for large and complex problems, and this inspires the development of Inverse Reinforcement Learning (IRL), an extension of RL, which directly tackles this problem by learning the reward function through expert demonstrations. IRL introduces a new way of learning policies by deriving expert's intentions, in contrast to directly learning policies, which can be redundant and have poor generalization ability. In this paper, the original IRL algorithms and its close variants, as well as their recent advances are reviewed and compared.
+C1 [Shao Zhifei; Joo, Er Meng] Nanyang Technol Univ, Sch Elect & Elect Engn, Singapore, Singapore.
+RP Shao, ZF (corresponding author), Nanyang Technol Univ, Sch Elect & Elect Engn, Singapore, Singapore.
+EM zshao1@e.ntu.edu.sg; EMJER@ntu.edu.sg
+NR 51
+TC 1
+Z9 1
+U1 0
+U2 1
+PU IEEE
+PI NEW YORK
+PA 345 E 47TH ST, NEW YORK, NY 10017 USA
+BN 978-1-4673-1509-8
+J9 IEEE C EVOL COMPUTAT
+PY 2012
+PG 8
+WC Engineering, Electrical & Electronic; Mathematical & Computational
+   Biology
+SC Engineering; Mathematical & Computational Biology
+GA BDD74
+UT WOS:000312859302069
+DA 2021-07-09
+ER
+
+PT J
+AU Mason, K
+   Grijalva, S
+AF Mason, Karl
+   Grijalva, Santiago
+TI A review of reinforcement learning for autonomous building energy
+   management
+SO COMPUTERS & ELECTRICAL ENGINEERING
+LA English
+DT Review
+DE Reinforcement learning; Building energy management; Smart homes; Smart
+   grid; Deep learning; Machine learning
+ID SYSTEMS
+AB The area of building energy management has received a significant amount of interest in recent years. This area is concerned with combining advancements in sensor technologies, communications and advanced control algorithms to optimize energy utilization. Reinforcement learning is one of the most prominent machine learning algorithms used for control problems and has had many successful applications in the area of building energy management. This research gives a comprehensive review of the literature relating to the application of reinforcement learning to developing autonomous building energy management systems. Energy savings of greater than 20% are reported in the literature for more complex building energy management problems when implementing reinforcement learning. The main direction for future research and challenges in reinforcement learning are also outlined. (C) 2019 Elsevier Ltd. All rights reserved.
+C1 [Mason, Karl; Grijalva, Santiago] Georgia Inst Technol, Sch Elect & Comp Engn, Atlanta, GA 30332 USA.
+RP Mason, K (corresponding author), Georgia Inst Technol, Sch Elect & Comp Engn, Atlanta, GA 30332 USA.
+EM kmason35@gatech.edu; sgrijalva@ece.gatech.edu
+OI Mason, Karl/0000-0002-8966-9100
+NR 35
+TC 22
+Z9 22
+U1 4
+U2 35
+PU PERGAMON-ELSEVIER SCIENCE LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, ENGLAND
+SN 0045-7906
+EI 1879-0755
+J9 COMPUT ELECTR ENG
+JI Comput. Electr. Eng.
+PD SEP
+PY 2019
+VL 78
+BP 300
+EP 312
+DI 10.1016/j.compeleceng.2019.07.019
+PG 13
+WC Computer Science, Hardware & Architecture; Computer Science,
+   Interdisciplinary Applications; Engineering, Electrical & Electronic
+SC Computer Science; Engineering
+GA JA1KA
+UT WOS:000487574700023
+DA 2021-07-09
+ER
+
+PT J
+AU Servedio, MR
+   Saether, SA
+   Saetre, GP
+AF Servedio, Maria R.
+   Saether, Stein A.
+   Saetre, Glenn-Peter
+TI Reinforcement and learning
+SO EVOLUTIONARY ECOLOGY
+LA English
+DT Article
+DE Imprinting; Learning; Preferences; Model; Reinforcement; Speciation
+ID SUBSEQUENT ADULT BEHAVIOR; WHITE-CROWNED SPARROWS; SEXUAL SELECTION;
+   MATE-CHOICE; REPRODUCTIVE ISOLATION; DEVELOPMENTAL ISOLATION;
+   DROSOPHILA-PAULISTORUM; EVOLUTIONARY CONSEQUENCES; COLLARED FLYCATCHERS;
+   FEMALE PREFERENCES
+AB Evidence has been accumulating to support the process of reinforcement as a potential mechanism in speciation. In many species, mate choice decisions are influenced by cultural factors, including learned mating preferences (sexual imprinting) or learned mate attraction signals (e.g., bird song). It has been postulated that learning can have a strong impact on the likelihood of speciation and perhaps on the process of reinforcement, but no models have explicitly considered learning in a reinforcement context. We review the evidence that suggests that learning may be involved in speciation and reinforcement, and present a model of reinforcement via learned preferences. We show that not only can reinforcement occur when preferences are learned by imprinting, but that such preferences can maintain species differences easily in comparison with both autosomal and sex-linked genetically inherited preferences. We highlight the need for more explicit study of the connection between the behavioral process of learning and the evolutionary process of reinforcement in natural systems.
+C1 [Servedio, Maria R.] Univ N Carolina, Dept Biol, Chapel Hill, NC 27599 USA.
+   [Saether, Stein A.] Netherlands Inst Ecol NIOO KNAW, NL-6666 ZG Heteren, Netherlands.
+   [Saether, Stein A.] Uppsala Univ, EBC, Dept Evolutionary Biol, SE-75236 Uppsala, Sweden.
+   [Saetre, Glenn-Peter] Univ Oslo, Dept Biol, CEES, N-0316 Oslo, Norway.
+RP Servedio, MR (corresponding author), Univ N Carolina, Dept Biol, CB 3280 Coker Hall, Chapel Hill, NC 27599 USA.
+EM servedio@email.unc.edu
+RI Servedio, Maria R/A-9743-2008
+OI Servedio, Maria R/0000-0002-3965-4445
+FU National Science FoundationNational Science Foundation (NSF)
+   [DEB-0234849, DEB-0614166]; National Evolutionary Synthesis Center
+   (NESCent)National Science Foundation (NSF)NSF - Directorate for
+   Biological Sciences (BIO) [EF-0423641]
+FX The authors thank Rob Lachlan and Haven Wiley for discussion and Anders
+   Brodin and an anonymous reviewer for comments on the paper. M. R. S. was
+   funded by the National Science Foundation Grants DEB-0234849 and
+   DEB-0614166 and was supported in this work by the National Evolutionary
+   Synthesis Center (NESCent), NSF # EF-0423641.
+NR 90
+TC 84
+Z9 86
+U1 3
+U2 54
+PU SPRINGER
+PI DORDRECHT
+PA VAN GODEWIJCKSTRAAT 30, 3311 GZ DORDRECHT, NETHERLANDS
+SN 0269-7653
+EI 1573-8477
+J9 EVOL ECOL
+JI Evol. Ecol.
+PD JAN
+PY 2009
+VL 23
+IS 1
+BP 109
+EP 123
+DI 10.1007/s10682-007-9188-2
+PG 15
+WC Ecology; Evolutionary Biology; Genetics & Heredity
+SC Environmental Sciences & Ecology; Evolutionary Biology; Genetics &
+   Heredity
+GA 395EB
+UT WOS:000262504800008
+DA 2021-07-09
+ER
+
+PT B
+AU Hou, J
+   Li, H
+   Hu, JW
+   Zhao, CH
+   Guo, YN
+   Li, SJ
+   Pan, Q
+AF Hou, Jun
+   Li, Hua
+   Hu, Jinwen
+   Zhao, Chunhui
+   Guo, Yaning
+   Li, Sijia
+   Pan, Quan
+BE Xu, X
+TI A review of the applications and hotspots of reinforcement learning
+SO PROCEEDINGS OF 2017 IEEE INTERNATIONAL CONFERENCE ON UNMANNED SYSTEMS
+   (ICUS)
+LA English
+DT Proceedings Paper
+CT IEEE International Conference on Unmanned Systems (ICUS)
+CY OCT 27-29, 2017
+CL Beijing, PEOPLES R CHINA
+SP IEEE, IEEE Beijing Sect, Beijing Inst Technol, Chinese Inst Command & Control
+DE Reinforcement learning; application; agent
+ID FLOCKING
+AB The learning behavior of the agent is a challenging and interesting issue in an unknown environment. Reinforcement learning obtain the developed strategy through exploration and interaction with the environment, and the characteristic of online learning make it as an important branch of machine learning research. In this paper, we summarize the current research of the reinforcement learning applications and hotspots. Firstly, the principle, structure and the main classic algorithms of the reinforcement learning are introduced. Secondly, according to the recent research results, we introduce four main applications of reinforcement learning, namely robot, unmanned aerial vehicle, multi-agent and intelligent traffic. Finally, the research hotspots and the development direction of the reinforcement learning are introduced, which conclude the partial perception, hierarchical reinforcement learning, combination with other artificial intelligence technologies and game theory.
+C1 [Hou, Jun; Li, Hua; Hu, Jinwen] Northwestern Polytech Univ, Sch Automat, Xian, Shaanxi, Peoples R China.
+RP Hu, JW (corresponding author), Northwestern Polytech Univ, Sch Automat, Xian, Shaanxi, Peoples R China.
+EM honjun@nwpu.edu.cn; 1206041274@qq.com; hujinwen@nwpu.edu.cn
+RI Li, Si-Jia/X-4559-2018
+OI Li, Si-Jia/0000-0002-9210-3060
+FU State Key Laboratory of Geo-information Engineering [SKLGIE2015-M-3-4];
+   Natural Science Foundation of Shaanxi ProvinceNatural Science Foundation
+   of Shaanxi Province [2017JM6027]; National Science Foundation of
+   ChinaNational Natural Science Foundation of China (NSFC) [61473230];
+   National Science Foundation for Young Scholars of ChinaNational Natural
+   Science Foundation of China (NSFC) [61603303]; Aviation Science
+   Foundation [2014ZC53030]
+FX The research leading to these results is funded by State Key Laboratory
+   of Geo-information Engineering under grant agreement NO.
+   SKLGIE2015-M-3-4 and is supported by Natural Science Foundation of
+   Shaanxi Province (Grant No.2017JM6027), National Science Foundation of
+   China (Grant No. 61473230), National Science Foundation for Young
+   Scholars of China (Grant No.61603303) and Aviation Science Foundation
+   (Grant No.2014ZC53030).
+NR 40
+TC 2
+Z9 3
+U1 0
+U2 11
+PU IEEE
+PI NEW YORK
+PA 345 E 47TH ST, NEW YORK, NY 10017 USA
+BN 978-1-5386-3107-2
+PY 2017
+BP 506
+EP 511
+PG 6
+WC Automation & Control Systems; Engineering, Electrical & Electronic
+SC Automation & Control Systems; Engineering
+GA BJ4ON
+UT WOS:000425254100094
+DA 2021-07-09
+ER
+
+PT J
+AU Azar, AT
+   Koubaa, A
+   Mohamed, NA
+   Ibrahim, HA
+   Ibrahim, ZF
+   Kazim, M
+   Ammar, A
+   Benjdira, B
+   Khamis, AM
+   Hameed, IA
+   Casalino, G
+AF Azar, Ahmad Taher
+   Koubaa, Anis
+   Ali Mohamed, Nada
+   Ibrahim, Habiba A.
+   Ibrahim, Zahra Fathy
+   Kazim, Muhammad
+   Ammar, Adel
+   Benjdira, Bilel
+   Khamis, Alaa M.
+   Hameed, Ibrahim A.
+   Casalino, Gabriella
+TI Drone Deep Reinforcement Learning: A Review
+SO ELECTRONICS
+LA English
+DT Review
+DE unmanned aerial vehicles; UAVs; guidance; navigation; control; machine
+   learning; deep reinforcement learning (DRL); literature review
+ID UNMANNED AERIAL VEHICLES; STRUCTURE-FROM-MOTION; UAV; IMAGES
+AB Unmanned Aerial Vehicles (UAVs) are increasingly being used in many challenging and diversified applications. These applications belong to the civilian and the military fields. To name a few; infrastructure inspection, traffic patrolling, remote sensing, mapping, surveillance, rescuing humans and animals, environment monitoring, and Intelligence, Surveillance, Target Acquisition, and Reconnaissance (ISTAR) operations. However, the use of UAVs in these applications needs a substantial level of autonomy. In other words, UAVs should have the ability to accomplish planned missions in unexpected situations without requiring human intervention. To ensure this level of autonomy, many artificial intelligence algorithms were designed. These algorithms targeted the guidance, navigation, and control (GNC) of UAVs. In this paper, we described the state of the art of one subset of these algorithms: the deep reinforcement learning (DRL) techniques. We made a detailed description of them, and we deduced the current limitations in this area. We noted that most of these DRL methods were designed to ensure stable and smooth UAV navigation by training computer-simulated environments. We realized that further research efforts are needed to address the challenges that restrain their deployment in real-life scenarios.
+C1 [Azar, Ahmad Taher; Koubaa, Anis; Kazim, Muhammad; Ammar, Adel; Benjdira, Bilel] Prince Sultan Univ, Coll Comp & Informat Sci, Riyadh 11586, Saudi Arabia.
+   [Azar, Ahmad Taher] Benha Univ, Fac Comp & Artificial Intelligence, Banha 13518, Egypt.
+   [Ali Mohamed, Nada; Ibrahim, Zahra Fathy] Nile Univ Campus, Sch Engn & Appl Sci, Juhayna Sq, Giza 60411, Egypt.
+   [Ibrahim, Habiba A.] Nile Univ, Smart Engn Syst Res Ctr SESC, Giza 12588, Egypt.
+   [Kazim, Muhammad] Harbin Inst Technol, Res Inst Intelligent Control & Syst, Harbin 150080, Peoples R China.
+   [Khamis, Alaa M.] Gen Motors Canada, 500 Wentworth St W, Oshawa, ON L1J 6J2, Canada.
+   [Hameed, Ibrahim A.] Norwegian Univ Sci & Technol, Dept ICT & Nat Sci, Larsgardsvegen 2, N-6009 Alesund, Norway.
+   [Casalino, Gabriella] Univ Bari, Dept Informat, I-70125 Bari, Italy.
+RP Azar, AT (corresponding author), Prince Sultan Univ, Coll Comp & Informat Sci, Riyadh 11586, Saudi Arabia.; Azar, AT (corresponding author), Benha Univ, Fac Comp & Artificial Intelligence, Banha 13518, Egypt.
+EM aazar@psu.edu.sa; akoubaa@psu.edu.sa; N.Ali@nu.edu.eg;
+   h.ibrahim@nu.edu.eg; Z.Fathy@nu.edu.eg; mkazim@psu.edu.sa;
+   aammar@psu.edu.sa; bbenjdira@psu.edu.sa; alaakhamis@gmail.com;
+   ibib@ntnu.no; gabriella.casalino@uniba.it
+RI Hameed, Ibrahim A./O-7761-2019; Casalino, Gabriella/N-6374-2017; Azar,
+   Ahmad Taher/O-5566-2014
+OI Hameed, Ibrahim A./0000-0003-1252-260X; Casalino,
+   Gabriella/0000-0003-0713-2260; Azar, Ahmad Taher/0000-0002-7869-6373;
+   Koubaa, Anis/0000-0003-3787-7423; kazim, Muhammmad/0000-0002-4292-0038
+NR 76
+TC 1
+Z9 1
+U1 7
+U2 7
+PU MDPI
+PI BASEL
+PA ST ALBAN-ANLAGE 66, CH-4052 BASEL, SWITZERLAND
+EI 2079-9292
+J9 ELECTRONICS-SWITZ
+JI Electronics
+PD MAY
+PY 2021
+VL 10
+IS 9
+AR 999
+DI 10.3390/electronics10090999
+PG 30
+WC Computer Science, Information Systems; Engineering, Electrical &
+   Electronic; Physics, Applied
+SC Computer Science; Engineering; Physics
+GA SB4SP
+UT WOS:000649986400001
+OA DOAJ Gold
+DA 2021-07-09
+ER
+
+PT J
+AU Lin, JY
+   Ma, Z
+   Gomez, R
+   Nakamura, K
+   He, B
+   Li, GL
+AF Lin, Jinying
+   Ma, Zhen
+   Gomez, Randy
+   Nakamura, Keisuke
+   He, Bo
+   Li, Guangliang
+TI A Review on Interactive Reinforcement Learning From Human Social
+   Feedback
+SO IEEE ACCESS
+LA English
+DT Review
+DE Human agent; robot interaction; interactive reinforcement learning;
+   interactive shaping; social interaction
+ID ROBOT; BEHAVIOR
+AB Reinforcement learning agent learns how to perform a task by interacting with the environment. The use of reinforcement learning in real-life applications has been limited because of the sample efficiency problem. Interactive reinforcement learning has been developed to speed up the agent's learning and facilitate to learn from ordinary people by allowing them to provide social feedback, e.g, evaluative feedback, advice or instruction. Inspired by real-life biological learning scenarios, there could be many ways to provide feedback for agent learning, such as via hardware delivered, natural interaction like facial expressions, speech or gestures. The agent can even learn from feedback via unimodal or multimodal sensory input. This paper reviews methods for interactive reinforcement learning agent to learn from human social feedback and the ways of delivering feedback. Finally, we discuss some open problems and possible future research directions.
+C1 [Lin, Jinying; Ma, Zhen; He, Bo; Li, Guangliang] Ocean Univ China, Dept Elect Engn, Qingdao 266100, Peoples R China.
+   [Gomez, Randy; Nakamura, Keisuke] Honda Res Inst Japan Co Ltd, Wako, Saitama 3510188, Japan.
+RP Li, GL (corresponding author), Ocean Univ China, Dept Elect Engn, Qingdao 266100, Peoples R China.
+EM guangliangli@ouc.edu.cn
+OI Li, Guangliang/0000-0003-1728-5711; Ma, Zhen/0000-0002-3881-7417; Lin,
+   Jinying/0000-0001-8019-9758
+NR 70
+TC 0
+Z9 0
+U1 1
+U2 4
+PU IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC
+PI PISCATAWAY
+PA 445 HOES LANE, PISCATAWAY, NJ 08855-4141 USA
+SN 2169-3536
+J9 IEEE ACCESS
+JI IEEE Access
+PY 2020
+VL 8
+BP 120757
+EP 120765
+DI 10.1109/ACCESS.2020.3006254
+PG 9
+WC Computer Science, Information Systems; Engineering, Electrical &
+   Electronic; Telecommunications
+SC Computer Science; Engineering; Telecommunications
+GA MR4DN
+UT WOS:000553539300001
+OA DOAJ Gold
+DA 2021-07-09
+ER
+
+PT J
+AU Chen, C
+AF Chen, Chong
+TI Intelligence moderates reinforcement learning: a mini-review of the
+   neural evidence
+SO JOURNAL OF NEUROPHYSIOLOGY
+LA English
+DT Article
+DE intelligence; reinforcement learning; prediction error; model based
+ID CORTEX; REWARD; HUMANS; IQ
+AB Our understanding of the neural basis of reinforcement learning and intelligence, two key factors contributing to human strivings, has progressed significantly recently. However, the overlap of these two lines of research, namely, how intelligence affects neural responses during reinforcement learning, remains uninvestigated. A mini-review of three existing studies suggests that higher IQ (especially fluid IQ) may enhance the neural signal of positive prediction error in dorsolateral prefrontal cortex, dorsal anterior cingulate cortex, and striatum, several brain substrates of reinforcement learning or intelligence.
+C1 Hokkaido Univ, Grad Sch Med, Dept Psychiat, Sapporo, Hokkaido 0608638, Japan.
+RP Chen, C (corresponding author), Hokkaido Univ, Grad Sch Med, Dept Psychiat, Sapporo, Hokkaido 0608638, Japan.
+EM cchen@med.hokudai.ac.jp
+RI Chen, Chong/F-7448-2015
+OI Chen, Chong/0000-0002-3189-7397
+NR 15
+TC 5
+Z9 5
+U1 1
+U2 4
+PU AMER PHYSIOLOGICAL SOC
+PI BETHESDA
+PA 9650 ROCKVILLE PIKE, BETHESDA, MD 20814 USA
+SN 0022-3077
+EI 1522-1598
+J9 J NEUROPHYSIOL
+JI J. Neurophysiol.
+PD JUN 1
+PY 2015
+VL 113
+IS 10
+BP 3459
+EP 3461
+DI 10.1152/jn.00600.2014
+PG 3
+WC Neurosciences; Physiology
+SC Neurosciences & Neurology; Physiology
+GA CM9DZ
+UT WOS:000358008200001
+PM 25185818
+OA Green Published
+DA 2021-07-09
+ER
+
+PT J
+AU Taylor, ME
+   Stone, P
+AF Taylor, Matthew E.
+   Stone, Peter
+TI Transfer Learning for Reinforcement Learning Domains: A Survey
+SO JOURNAL OF MACHINE LEARNING RESEARCH
+LA English
+DT Review
+DE transfer learning; reinforcement learning; multi-task learning
+ID COMPOSING SOLUTIONS; FRAMEWORK
+AB The reinforcement learning paradigm is a popular way to address problems that have only limited environmental feedback, rather than correctly labeled examples, as is common in other machine learning contexts. While significant progress has been made to improve learning in a single task, the idea of transfer learning has only recently been applied to reinforcement learning tasks. The core idea of transfer is that experience gained in learning to perform one task can help improve learning performance in a related, but different, task. In this article we present a framework that classifies transfer learning methods in terms of their capabilities and goals, and then use it to survey the existing literature, as well as to suggest future directions for transfer learning work.
+C1 [Taylor, Matthew E.] Univ So Calif, Dept Comp Sci, Los Angeles, CA 90089 USA.
+   [Stone, Peter] Univ Texas Austin, Dept Comp Sci, Austin, TX 78712 USA.
+RP Taylor, ME (corresponding author), Univ So Calif, Dept Comp Sci, Los Angeles, CA 90089 USA.
+EM TAYLORM@USC.EDU; PSTONE@CS.UTEXAS.EDU
+OI Taylor, Matthew/0000-0001-8946-0211
+FU National Science FoundationNational Science Foundation (NSF)
+   [CNS-0615104]; DARPAUnited States Department of DefenseDefense Advanced
+   Research Projects Agency (DARPA) [FA8750-05-2-0283, FA8650-08-C-7812];
+   Federal Highway Administration [DTFH6107-H-00030]; General Motors
+FX We would like to thank Cynthia Matuszek and the anonymous reviewers for
+   helpful comments and suggestions over multiple revisions. This work has
+   taken place in the Learning Agents Research Group (LARG) at the
+   Artificial Intelligence Laboratory, The University of Texas at Austin.
+   LARG research is supported in part by grants from the National Science
+   Foundation (CNS-0615104), DARPA (FA8750-05-2-0283 and FA8650-08-C-7812),
+   the Federal Highway Administration (DTFH6107-H-00030), and General
+   Motors.
+NR 129
+TC 502
+Z9 518
+U1 7
+U2 104
+PU MICROTOME PUBL
+PI BROOKLINE
+PA 31 GIBBS ST, BROOKLINE, MA 02446 USA
+SN 1532-4435
+J9 J MACH LEARN RES
+JI J. Mach. Learn. Res.
+PD JUL
+PY 2009
+VL 10
+BP 1633
+EP 1685
+PG 53
+WC Automation & Control Systems; Computer Science, Artificial Intelligence
+SC Automation & Control Systems; Computer Science
+GA 507BM
+UT WOS:000270825000012
+DA 2021-07-09
+ER
+
+PT J
+AU Zhu, K
+   Zhang, T
+AF Zhu, Kai
+   Zhang, Tao
+TI Deep Reinforcement Learning Based Mobile Robot Navigation: A Review
+SO TSINGHUA SCIENCE AND TECHNOLOGY
+LA English
+DT Review
+DE mobile robot navigation; obstacle avoidance; deep reinforcement learning
+ID DYNAMIC ENVIRONMENT; VISUAL NAVIGATION; NEURAL-NETWORKS; UAV; AVOIDANCE
+AB Navigation is a fundamental problem of mobile robots, for which Deep Reinforcement Learning (DRL) has received significant attention because of its strong representation and experience learning abilities. There is a growing trend of applying DRL to mobile robot navigation. In this paper, we review DRL methods and DRL-based navigation frameworks. Then we systematically compare and analyze the relationship and differences between four typical application scenarios: local obstacle avoidance, indoor navigation, multi-robot navigation, and social navigation. Next, we describe the development of DRL-based navigation. Last, we discuss the challenges and some possible solutions regarding DRL-based navigation.
+C1 [Zhu, Kai; Zhang, Tao] Tsinghua Univ, Dept Automat, Beijing 100084, Peoples R China.
+   [Zhang, Tao] Tsinghua Univ, Beijing Natl Res Ctr Informat Sci & Technol, Beijing 100084, Peoples R China.
+RP Zhang, T (corresponding author), Tsinghua Univ, Dept Automat, Beijing 100084, Peoples R China.
+EM zhuk19@mails.tsinghua.edu.cn; taozhang@tsinghua.edu.cn
+NR 86
+TC 0
+Z9 0
+U1 29
+U2 29
+PU TSINGHUA UNIV PRESS
+PI BEIJING
+PA B605D, XUE YAN BUILDING, BEIJING, 100084, PEOPLES R CHINA
+SN 1007-0214
+EI 1878-7606
+J9 TSINGHUA SCI TECHNOL
+JI Tsinghua Sci. Technol.
+PD OCT
+PY 2021
+VL 26
+IS 5
+BP 674
+EP 691
+DI 10.26599/TST.2021.9010012
+PG 18
+WC Computer Science, Information Systems; Computer Science, Software
+   Engineering; Engineering, Electrical & Electronic
+SC Computer Science; Engineering
+GA RT5IV
+UT WOS:000644494400008
+OA Bronze
+DA 2021-07-09
+ER
+
+PT J
+AU Wang, HN
+   Liu, N
+   Zhang, YY
+   Feng, DW
+   Huang, F
+   Li, DS
+   Zhang, YM
+AF Wang, Hao-nan
+   Liu, Ning
+   Zhang, Yi-yun
+   Feng, Da-wei
+   Huang, Feng
+   Li, Dong-sheng
+   Zhang, Yi-ming
+TI Deep reinforcement learning: a survey
+SO FRONTIERS OF INFORMATION TECHNOLOGY & ELECTRONIC ENGINEERING
+LA English
+DT Review
+DE Reinforcement learning; Deep reinforcement learning; Reinforcement
+   learning applications; TP18
+ID DYNAMICS
+AB Deep reinforcement learning (RL) has become one of the most popular topics in artificial intelligence research. It has been widely used in various fields, such as end-to-end control, robotic control, recommendation systems, and natural language dialogue systems. In this survey, we systematically categorize the deep RL algorithms and applications, and provide a detailed review over existing deep RL algorithms by dividing them into modelbased methods, model-free methods, and advanced RL methods. We thoroughly analyze the advances including exploration, inverse RL, and transfer RL. Finally, we outline the current representative applications, and analyze four open problems for future research.
+C1 [Wang, Hao-nan; Liu, Ning; Zhang, Yi-yun; Feng, Da-wei; Huang, Feng; Li, Dong-sheng; Zhang, Yi-ming] Natl Univ Def Technol, Sci & Technol Parallel & Distributed Proc Lab, Changsha 410000, Peoples R China.
+RP Wang, HN (corresponding author), Natl Univ Def Technol, Sci & Technol Parallel & Distributed Proc Lab, Changsha 410000, Peoples R China.
+EM wanghaonan14@nudt.edu.cn; liuning17a@nudt.edu.cn; zhangyiyun213@163.com;
+   fengdawei@nudt.edu.cn; huangfeng@nudt.edu.cn; dsli@nudt.edu.cn;
+   zhangyiming@nudt.edu.cn
+FU National Natural Science Foundation of ChinaNational Natural Science
+   Foundation of China (NSFC) [61772541, 61872376, 61932001]
+FX Project supported by the National Natural Science Foundation of China
+   (Nos. 61772541, 61872376, and 61932001)
+NR 120
+TC 1
+Z9 1
+U1 29
+U2 41
+PU ZHEJIANG UNIV
+PI HANGZHOU
+PA EDITORIAL BOARD, 20 YUGU RD, HANGZHOU, 310027, PEOPLES R CHINA
+SN 2095-9184
+EI 2095-9230
+J9 FRONT INFORM TECH EL
+JI Front. Inform. Technol. Elect. Eng.
+PD DEC
+PY 2020
+VL 21
+IS 12
+SI SI
+BP 1726
+EP 1744
+DI 10.1631/FITEE.1900533
+EA OCT 2020
+PG 19
+WC Computer Science, Information Systems; Computer Science, Software
+   Engineering; Engineering, Electrical & Electronic
+SC Computer Science; Engineering
+GA PJ1KH
+UT WOS:000577843400001
+DA 2021-07-09
+ER
+
+PT J
+AU Yang, M
+   Qu, Q
+   Shen, Y
+   Lei, K
+   Zhu, J
+AF Yang, Min
+   Qu, Qiang
+   Shen, Ying
+   Lei, Kai
+   Zhu, Jia
+TI Cross-domain aspect/sentiment-aware abstractive review summarization by
+   combining topic modeling and deep reinforcement learning
+SO NEURAL COMPUTING & APPLICATIONS
+LA English
+DT Article
+DE Domain adaptation; Abstractive review summarization; Reinforcement
+   learning; Weakly supervised LDA
+ID SPARSE REPRESENTATION; MULTITASK
+AB Review text has been widely studied in traditional tasks such as sentiment analysis and aspect extraction. However, to date, no work is toward the end-to-end abstractive review summarization that is essential for business organizations and individual consumers to make informed decisions. This study takes the lead to study the aspect/sentiment-aware abstractive review summarization in domain adaptation scenario. Our novel model Abstractive review Summarization with Topic modeling and Reinforcement deep learning (ASTR) leverages the benefits of the supervised deep neural networks, reinforcement learning, and unsupervised probabilistic generative model to strengthen the aspect/sentiment-aware review representation learning. ASTR is a multi-task learning system, which simultaneously optimizes two coupled objectives: domain classification (auxiliary task) and abstractive review summarization (primary task), in which a document modeling module is shared across tasks. The main purpose of our multi-task model is to strengthen the representation learning of documents and safeguard the performance of cross-domain abstractive review summarization. Specifically, ASTR consists of two key components: (1) a domain classifier, working on datasets of both source and target domains to recognize the domain information of texts and transfer knowledge from the source domain to the target domain. In particular, we propose a weakly supervised LDA model to learn the domain-specific aspect and sentiment lexicon representations, which are then fed into the neural hidden states of given reviews to form aspect/sentiment-aware review representations; (2) an abstractive review summarizer, sharing the document modeling module with the domain classifier. The learned aspect/lexicon-aware review representations are fed into a pointer-generator network to generate aspect/sentiment-aware abstractive summaries of given reviews by employing a reinforcement learning algorithm. We conduct extensive experiments on real-life Amazon reviews to evaluate the effectiveness of our model. Quantitatively, ASTR achieves better performance than the state-of-the-art summarization methods in terms of ROUGE score and human evaluation in both out-of-domain and in-domain setups. Qualitatively, our model can generate better sentiment-aware summarization for reviews with different categories and aspects.
+C1 [Yang, Min; Qu, Qiang] Chinese Acad Sci, Shenzhen Inst Adv Technol, Shenzhen, Peoples R China.
+   [Shen, Ying] Peking Univ, Sch Elect & Comp Engn, Shenzhen Grad Sch, Shenzhen, Peoples R China.
+   [Lei, Kai] Peking Univ, Sch Elect & Comp Engn, Shenzhen Key Lab Informat Centr Networking & Bloc, Shenzhen 518055, Peoples R China.
+   [Zhu, Jia] South China Normal Univ, Sch Comp Sci, Guangzhou, Peoples R China.
+RP Qu, Q (corresponding author), Chinese Acad Sci, Shenzhen Inst Adv Technol, Shenzhen, Peoples R China.
+EM min.yang@siat.ac.cn; qiang@siatac.cn; shenying@pkusz.edu.cn;
+   leik@pkusz.edu.cn; jzhu@m.scnu.edu.cn
+OI Zhu, Jia/0000-0002-5959-390X
+FU CAS Pioneer Hundred Talents Program; National Natural Science Foundation
+   of ChinaNational Natural Science Foundation of China (NSFC)
+   [61750110516]; Guangdong Natural Science Fund Project [2018A030313017]
+FX The work was partially supported by CAS Pioneer Hundred Talents Program,
+   National Natural Science Foundation of China (No. 61750110516), and
+   Guangdong Natural Science Fund Project (No. 2018A030313017).
+NR 54
+TC 0
+Z9 0
+U1 6
+U2 20
+PU SPRINGER LONDON LTD
+PI LONDON
+PA 236 GRAYS INN RD, 6TH FLOOR, LONDON WC1X 8HL, ENGLAND
+SN 0941-0643
+EI 1433-3058
+J9 NEURAL COMPUT APPL
+JI Neural Comput. Appl.
+PD JUN
+PY 2020
+VL 32
+IS 11
+SI SI
+BP 6421
+EP 6433
+DI 10.1007/s00521-018-3825-2
+PG 13
+WC Computer Science, Artificial Intelligence
+SC Computer Science
+GA LS4RE
+UT WOS:000536371900002
+DA 2021-07-09
+ER
+
+PT S
+AU Malpani, M
+   Mathew, R
+AF Malpani, Mohit
+   Mathew, Rejo
+BE Pandian, AP
+   Senjyu, T
+   Islam, SMS
+   Wang, H
+TI Review of Reinforcement Learning Techniques
+SO PROCEEDING OF THE INTERNATIONAL CONFERENCE ON COMPUTER NETWORKS, BIG
+   DATA AND IOT (ICCBI-2018)
+SE Lecture Notes on Data Engineering and Communications Technologies
+LA English
+DT Proceedings Paper
+CT International Conference on Computer Networks, Big Data and IoT (ICCBI)
+CY DEC 19-20, 2018
+CL Madurai, INDIA
+DE Cyber security game; Network; Agents; Standard network; Game procedure;
+   Reinforcement learning; Neural Network
+AB The paper with the help of reinforcement learning techniques and its method helps to find the best techniques that can be used in cyber security to help defender protect the data against the attackers. The techniques have been used in a cyber security game and resulted in a game of an unfriendly consecutive decision making problem played between agents i.e. an attacker and a defender.
+C1 [Malpani, Mohit; Mathew, Rejo] NMIMS Deemed Univ, Mukesh Patel Sch Technol Management & Engn, Dept IT, Mumbai, Maharashtra, India.
+RP Malpani, M (corresponding author), NMIMS Deemed Univ, Mukesh Patel Sch Technol Management & Engn, Dept IT, Mumbai, Maharashtra, India.
+EM mohitmalpani2@gmail.com; rejo.mathew@nmims.edu
+NR 7
+TC 0
+Z9 0
+U1 3
+U2 3
+PU SPRINGER INTERNATIONAL PUBLISHING AG
+PI CHAM
+PA GEWERBESTRASSE 11, CHAM, CH-6330, SWITZERLAND
+SN 2367-4512
+BN 978-3-030-24643-3; 978-3-030-24642-6
+J9 LECT NOTE DATA ENG
+PY 2020
+VL 31
+BP 923
+EP 927
+DI 10.1007/978-3-030-24643-3_108
+PG 5
+WC Computer Science, Information Systems; Computer Science, Theory &
+   Methods
+SC Computer Science
+GA BQ3OA
+UT WOS:000587291400108
+DA 2021-07-09
+ER
+
+PT S
+AU Goyal, P
+   Malik, H
+   Sharma, R
+AF Goyal, Parul
+   Malik, Hasmat
+   Sharma, Rajneesh
+BE Panigrahi, BK
+   Trivedi, MC
+   Mishra, KK
+   Tiwari, S
+   Singh, PK
+TI Application of Evolutionary Reinforcement Learning (ERL) Approach in
+   Control Domain: A Review
+SO SMART INNOVATIONS IN COMMUNICATION AND COMPUTATIONAL SCIENCES, VOL 2
+SE Advances in Intelligent Systems and Computing
+LA English
+DT Proceedings Paper
+CT International Conference on Smart Innovations in Communications and
+   Computational Sciences (ICSICCS)
+CY JUN 23-24, 2017
+CL Moga, INDIA
+SP N W Grp Inst
+DE Reinforcement learning; ERL; GA; PSO; QGRF
+ID GENETIC ALGORITHM
+AB Evolutionary algorithms have come to take a centre stage in diverse areas spanning multiple applications. Reinforcement learning is a novel paradigm that has recently evolved as a major control technique. This paper presents a concise review on implementing reinforcement learning with evolutionary algorithms, e.g. genetic algorithm (GA), particle swarm optimization (PSO), ant colony optimization (ACO), to several benchmark control problems, e.g. inverted pendulum, cart pole problem, mobile robots. Some techniques have combined Q-Learning with evolutionary approaches to improve their performance. Others have used knowledge acquisition to obtain optimal fuzzy rule set and genetic reinforcement learning (GRL) for designing consequent parts of fuzzy systems. We also propose a Q-value-based GRL for fuzzy controller (QGRF) where evolution is performed after each trial in contrast to GA where many trials are required to be performed before evolution.
+C1 [Goyal, Parul; Malik, Hasmat; Sharma, Rajneesh] Netaji Subhas Inst Technol, Dept Instrumentat & Control Engn, New Delhi 110078, India.
+RP Goyal, P (corresponding author), Netaji Subhas Inst Technol, Dept Instrumentat & Control Engn, New Delhi 110078, India.
+EM parulthaparian@gmail.com
+RI Malik, Hasmat/AAS-5515-2020; Malik, Hasmat/I-4994-2015
+OI Malik, Hasmat/0000-0002-0085-9734; Malik, Hasmat/0000-0002-0085-9734
+NR 29
+TC 4
+Z9 4
+U1 0
+U2 4
+PU SPRINGER INTERNATIONAL PUBLISHING AG
+PI CHAM
+PA GEWERBESTRASSE 11, CHAM, CH-6330, SWITZERLAND
+SN 2194-5357
+EI 2194-5365
+BN 978-981-10-8971-8; 978-981-10-8970-1
+J9 ADV INTELL SYST COMP
+PY 2019
+VL 670
+BP 273
+EP 288
+DI 10.1007/978-981-10-8971-8_25
+PG 16
+WC Computer Science, Artificial Intelligence; Telecommunications
+SC Computer Science; Telecommunications
+GA BN4IO
+UT WOS:000481921300025
+DA 2021-07-09
+ER
+
+PT J
+AU Bhagat, S
+   Banerjee, H
+   Tse, ZTH
+   Ren, HL
+AF Bhagat, Sarthak
+   Banerjee, Hritwick
+   Tse, Zion Tsz Ho
+   Ren, Hongliang
+TI Deep Reinforcement Learning for Soft, Flexible Robots: Brief Review with
+   Impending Challenges
+SO ROBOTICS
+LA English
+DT Review
+DE deep reinforcement learning; imitation learning; soft robotics
+ID PERFORMANCE; DESIGN; ARM
+AB The increasing trend of studying the innate softness of robotic structures and amalgamating it with the benefits of the extensive developments in the field of embodied intelligence has led to the sprouting of a relatively new yet rewarding sphere of technology in intelligent soft robotics. The fusion of deep reinforcement algorithms with soft bio-inspired structures positively directs to a fruitful prospect of designing completely self-sufficient agents that are capable of learning from observations collected from their environment. For soft robotic structures possessing countless degrees of freedom, it is at times not convenient to formulate mathematical models necessary for training a deep reinforcement learning (DRL) agent. Deploying current imitation learning algorithms on soft robotic systems has provided competent results. This review article posits an overview of various such algorithms along with instances of being applied to real-world scenarios, yielding frontier results. Brief descriptions highlight the various pristine branches of DRL research in soft robotics.
+C1 [Bhagat, Sarthak; Banerjee, Hritwick; Ren, Hongliang] Natl Univ Singapore, Dept Biomed Engn, Fac Engn, 4 Engn Dr 3, Singapore 117583, Singapore.
+   [Bhagat, Sarthak] Indraprastha Inst Informat Technol, Dept Elect & Commun Engn, New Delhi 110020, India.
+   [Banerjee, Hritwick; Ren, Hongliang] Natl Univ Singapore, Singapore Inst Neurotechnol SINAPSE, Ctr Life Sci, Singapore 117456, Singapore.
+   [Tse, Zion Tsz Ho] Univ Georgia, Sch Elect & Comp Engn, Coll Engn, Athens, GA 30602 USA.
+   [Ren, Hongliang] Natl Univ Singapore Suzhou, Res Inst NUSRI, Suzhou Ind Pk, Suzhou 215123, Peoples R China.
+RP Ren, HL (corresponding author), Natl Univ Singapore, Dept Biomed Engn, Fac Engn, 4 Engn Dr 3, Singapore 117583, Singapore.; Ren, HL (corresponding author), Natl Univ Singapore, Singapore Inst Neurotechnol SINAPSE, Ctr Life Sci, Singapore 117456, Singapore.; Ren, HL (corresponding author), Natl Univ Singapore Suzhou, Res Inst NUSRI, Suzhou Ind Pk, Suzhou 215123, Peoples R China.
+EM sarthak16189@iiitd.ac.in; biehb@nus.edu.sg; ziontse@uga.edu;
+   ren@nus.edu.sg
+RI Ren, Hongliang/N-9194-2017
+OI Ren, Hongliang/0000-0002-6488-1551; Bhagat, Sarthak/0000-0002-9067-0926;
+   BANERJEE, HRITWICK/0000-0003-2939-646X; Tse, Zion/0000-0001-9741-1137
+FU NMRC Bench Bedsides [R-397-000-245-511]; Singapore Academic Research
+   FundMinistry of Education, Singapore [R-397-000-227-112]; NUSRI China
+   Jiangsu Provincial [BK20150386, BE2016077]
+FX This work was supported by the NMRC Bench & Bedsides under Grant
+   R-397-000-245-511, Singapore Academic Research Fund under Grant
+   R-397-000-227-112, and the NUSRI China Jiangsu Provincial Grants
+   BK20150386 & BE2016077 awarded to H.R.
+NR 169
+TC 19
+Z9 19
+U1 3
+U2 24
+PU MDPI
+PI BASEL
+PA ST ALBAN-ANLAGE 66, CH-4052 BASEL, SWITZERLAND
+EI 2218-6581
+J9 ROBOTICS
+JI Robotics
+PD JAN 18
+PY 2019
+VL 8
+IS 1
+AR 4
+DI 10.3390/robotics8010004
+PG 36
+WC Robotics
+SC Robotics
+GA HT0LS
+UT WOS:000464257300001
+OA DOAJ Gold, Green Accepted
+DA 2021-07-09
+ER
+
+PT J
+AU Zhang, DX
+   Han, XQ
+   Deng, CY
+AF Zhang, Dongxia
+   Han, Xiaoqing
+   Deng, Chunyu
+TI Review on the Research and Practice of Deep Learning and Reinforcement
+   Learning in Smart Grids
+SO CSEE JOURNAL OF POWER AND ENERGY SYSTEMS
+LA English
+DT Review
+DE Deep learning; deep reinforcement learning; reinforcement learning;
+   smart grid
+ID DEMAND RESPONSE; NEURAL-NETWORKS
+AB Smart grids are the developmental trend of power systems and they have attracted much attention all over the world. Due to their complexities, and the uncertainty of the smart grid and high volume of information being collected, artificial intelligence techniques represent some of the enabling technologies for its future development and success. Owing to the decreasing cost of computing power, the profusion of data, and better algorithms, AI has entered into its new developmental stage and AI 2.0 is developing rapidly. Deep learning (DL), reinforcement learning (RL) and their combination-deep reinforcement learning (DRL) are representative methods and relatively mature methods in the family of AI 2.0. This article introduces the concept and status quo of the above three methods, summarizes their potential for application in smart grids, and provides an overview of the research work on their application in smart grids.
+C1 [Zhang, Dongxia; Deng, Chunyu] China Elect Power Res Inst, Beijing 100192, Peoples R China.
+   [Han, Xiaoqing] Taiyuan Univ Technol, Dept Elect Engn, Taiyuan 030024, Shanxi, Peoples R China.
+RP Zhang, DX (corresponding author), China Elect Power Res Inst, Beijing 100192, Peoples R China.
+EM zhangdx@epri.sgcc.com.cn
+NR 67
+TC 99
+Z9 104
+U1 7
+U2 45
+PU CHINA ELECTRIC POWER RESEARCH INST
+PI BEIJING
+PA 15, QINGHE XIAOYING DONG LU, HAIDIAN-QU, BEIJING, 100192, PEOPLES R
+   CHINA
+SN 2096-0042
+J9 CSEE J POWER ENERGY
+JI CSEE J. Power Energy Syst.
+PD SEP
+PY 2018
+VL 4
+IS 3
+BP 362
+EP 370
+DI 10.17775/CSEEJPES.2018.00520
+PG 9
+WC Energy & Fuels; Engineering, Electrical & Electronic
+SC Energy & Fuels; Engineering
+GA GV0ER
+UT WOS:000445731000011
+OA DOAJ Gold
+DA 2021-07-09
+ER
+
+PT J
+AU Jonsson, A
+AF Jonsson, Anders
+TI Deep Reinforcement Learning in Medicine
+SO KIDNEY DISEASES
+LA English
+DT Review
+DE Artificial intelligence; Reinforcement learning; Deep learning
+ID GAME; GO
+AB Reinforcement learning has achieved tremendous success in recent years, notably in complex games such as Atari, Go, and chess. In large part, this success has been made possible by powerful function approximation methods in the form of deep neural networks. The objective of this paper is to introduce the basic concepts of reinforcement learning, explain how reinforcement learning can be effectively combined with deep learning, and explore how deep reinforcement learning could be useful in a medical context. (C) 2018 S. Karger AG, Basel
+C1 [Jonsson, Anders] Univ Pompeu Fabra, Dept Informat & Commun Technol, Roc Boronat 138, ES-08018 Barcelona, Spain.
+RP Jonsson, A (corresponding author), Univ Pompeu Fabra, Dept Informat & Commun Technol, Roc Boronat 138, ES-08018 Barcelona, Spain.
+EM anders.jonsson@upf.edu
+FU Spanish Ministry of ScienceSpanish Government [TIN2015-67959]
+FX This work is partially funded by the grant TIN2015-67959 of the Spanish
+   Ministry of Science.
+NR 13
+TC 10
+Z9 10
+U1 3
+U2 17
+PU KARGER
+PI BASEL
+PA ALLSCHWILERSTRASSE 10, CH-4009 BASEL, SWITZERLAND
+SN 2296-9381
+EI 2296-9357
+J9 KIDNEY DIS-BASEL
+JI Kidney Dis.
+PY 2019
+VL 5
+IS 1
+BP 18
+EP 22
+DI 10.1159/000492670
+PG 5
+WC Urology & Nephrology
+SC Urology & Nephrology
+GA HM5KE
+UT WOS:000459513800004
+PM 30815460
+OA DOAJ Gold, Green Published
+DA 2021-07-09
+ER
+
+PT J
+AU Meng, TL
+   Khushi, M
+AF Meng, Terry Lingze
+   Khushi, Matloob
+TI Reinforcement Learning in Financial Markets
+SO DATA
+LA English
+DT Review
+DE reinforcement learning; stock market; foreign exchange market; trading;
+   forecasts
+AB Recently there has been an exponential increase in the use of artificial intelligence for trading in financial markets such as stock and forex. Reinforcement learning has become of particular interest to financial traders ever since the program AlphaGo defeated the strongest human contemporary Go board game player Lee Sedol in 2016. We systematically reviewed all recent stock/forex prediction or trading articles that used reinforcement learning as their primary machine learning method. All reviewed articles had some unrealistic assumptions such as no transaction costs, no liquidity issues and no bid or ask spread issues. Transaction costs had significant impacts on the profitability of the reinforcement learning algorithms compared with the baseline algorithms tested. Despite showing statistically significant profitability when reinforcement learning was used in comparison with baseline models in many studies, some showed no meaningful level of profitability, in particular with large changes in the price pattern between the system training and testing data. Furthermore, few performance comparisons between reinforcement learning and other sophisticated machine/deep learning models were provided. The impact of transaction costs, including the bid/ask spread on profitability has also been assessed. In conclusion, reinforcement learning in stock/forex trading is still in its early development and further research is needed to make it a reliable method in this domain.
+C1 [Meng, Terry Lingze; Khushi, Matloob] Univ Sydney, Sch Comp Sci, Bldg J12,1 Cleveland St, Darlington, NSW 2006, Australia.
+RP Khushi, M (corresponding author), Univ Sydney, Sch Comp Sci, Bldg J12,1 Cleveland St, Darlington, NSW 2006, Australia.
+EM mkhushi@uni.sydney.edu.au
+OI Khushi, Matloob/0000-0001-7792-2327
+NR 31
+TC 15
+Z9 15
+U1 7
+U2 28
+PU MDPI
+PI BASEL
+PA ST ALBAN-ANLAGE 66, CH-4052 BASEL, SWITZERLAND
+EI 2306-5729
+J9 DATA
+JI Data
+PD SEP
+PY 2019
+VL 4
+IS 3
+AR 110
+DI 10.3390/data4030110
+PG 17
+WC Computer Science, Information Systems; Multidisciplinary Sciences
+SC Computer Science; Science & Technology - Other Topics
+GA JA6NG
+UT WOS:000487958500028
+OA DOAJ Gold
+DA 2021-07-09
+ER
+
+PT J
+AU Nguyen, TT
+   Nguyen, ND
+   Nahavandi, S
+AF Nguyen, Thanh Thi
+   Nguyen, Ngoc Duy
+   Nahavandi, Saeid
+TI Deep Reinforcement Learning for Multiagent Systems: A Review of
+   Challenges, Solutions, and Applications
+SO IEEE TRANSACTIONS ON CYBERNETICS
+LA English
+DT Review
+DE Mathematical model; Robots; Dynamic programming; Games; Reinforcement
+   learning; Deep learning; Observability; Continuous action space; deep
+   learning; deep reinforcement learning (RL); multiagent; nonstationary;
+   partial observability; review; robotics; survey
+ID DYNAMICS; ROBOTS; GAMES
+AB Reinforcement learning (RL) algorithms have been around for decades and employed to solve various sequential decision-making problems. These algorithms, however, have faced great challenges when dealing with high-dimensional environments. The recent development of deep learning has enabled RL methods to drive optimal policies for sophisticated and capable agents, which can perform efficiently in these challenging environments. This article addresses an important aspect of deep RL related to situations that require multiple agents to communicate and cooperate to solve complex tasks. A survey of different approaches to problems related to multiagent deep RL (MADRL) is presented, including nonstationarity, partial observability, continuous state and action spaces, multiagent training schemes, and multiagent transfer learning. The merits and demerits of the reviewed methods will be analyzed and discussed with their corresponding applications explored. It is envisaged that this review provides insights about various MADRL methods and can lead to the future development of more robust and highly useful multiagent learning methods for solving real-world problems.
+C1 [Nguyen, Thanh Thi] Deakin Univ, Sch Informat Technol, Burwood Campus, Burwood, Vic 3125, Australia.
+   [Nguyen, Ngoc Duy; Nahavandi, Saeid] Deakin Univ, Inst Intelligent Syst Res & Innovat, Waurn Ponds Campus, Waurn Ponds, Vic 3216, Australia.
+RP Nguyen, TT (corresponding author), Deakin Univ, Sch Informat Technol, Burwood Campus, Burwood, Vic 3125, Australia.
+EM thanh.nguyen@deakin.edu.au; duy.nguyen@deakin.edu.au;
+   saeid.nahavandi@deakin.edu.au
+OI Nguyen, Thanh Thi/0000-0001-9709-1663; Nguyen, Ngoc
+   Duy/0000-0002-4052-5819
+NR 134
+TC 32
+Z9 33
+U1 37
+U2 94
+PU IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC
+PI PISCATAWAY
+PA 445 HOES LANE, PISCATAWAY, NJ 08855-4141 USA
+SN 2168-2267
+EI 2168-2275
+J9 IEEE T CYBERNETICS
+JI IEEE T. Cybern.
+PD SEPT
+PY 2020
+VL 50
+IS 9
+BP 3826
+EP 3839
+DI 10.1109/TCYB.2020.2977374
+PG 14
+WC Automation & Control Systems; Computer Science, Artificial Intelligence;
+   Computer Science, Cybernetics
+SC Automation & Control Systems; Computer Science
+GA NE0RV
+UT WOS:000562306000001
+PM 32203045
+DA 2021-07-09
+ER
+
+PT J
+AU Garnier, P
+   Viquerat, J
+   Rabault, J
+   Larcher, A
+   Kuhnle, A
+   Hachem, E
+AF Garnier, Paul
+   Viquerat, Jonathan
+   Rabault, Jean
+   Larcher, Aurelien
+   Kuhnle, Alexander
+   Hachem, Elie
+TI A review on deep reinforcement learning for fluid mechanics
+SO COMPUTERS & FLUIDS
+LA English
+DT Review
+DE Deep reinforcement learning; Fluid mechanics
+ID SHAPE OPTIMIZATION
+AB Deep reinforcement learning (DRL) has recently been adopted in a wide range of physics and engineering domains for its ability to solve decision-making problems that were previously out of reach due to a combination of non-linearity and high dimensionality. In the last few years, it has spread in the field of computational mechanics, and particularly in fluid dynamics, with recent applications in flow control and shape optimization. In this work, we conduct a detailed review of existing DRL applications to fluid mechanics problems. In addition, we present recent results that further illustrate the potential of DRL in Fluid Mechanics. The coupling methods used in each case are covered, detailing their advantages and limitations. Our review also focuses on the comparison with classical methods for optimal control and optimization. Finally, several test cases are described that illustrate recent progress made in this field. The goal of this publication is to provide an understanding of DRL capabilities along with state-of-the-art applications in fluid dynamics to researchers wishing to address new problems with these methods. (C) 2021 Elsevier Ltd. All rights reserved.
+C1 [Garnier, Paul; Viquerat, Jonathan; Larcher, Aurelien; Hachem, Elie] PSL Res Univ, Ctr Mise Forme Mat CEMEF, MINES ParisTech, CNRS UMR 7635, F-06904 Sophia Antipolis, France.
+   [Rabault, Jean] Univ Oslo, Dept Math, N-0851 Oslo, Norway.
+   [Kuhnle, Alexander] Univ Cambridge, Dept Comp Sci & Technol, Cambridge, England.
+RP Hachem, E (corresponding author), PSL Res Univ, Ctr Mise Forme Mat CEMEF, MINES ParisTech, CNRS UMR 7635, F-06904 Sophia Antipolis, France.
+EM paul.garnier@mines-paristech.fr; jonathan.viquerat@mines-paristech.fr;
+   jean.rblt@gmail.com; aurelien.larcherm@mines-paristech.fr;
+   alexkuhnle@t-online.de; elie.hachem@mines-paristech.fr
+NR 59
+TC 0
+Z9 0
+U1 1
+U2 1
+PU PERGAMON-ELSEVIER SCIENCE LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, ENGLAND
+SN 0045-7930
+EI 1879-0747
+J9 COMPUT FLUIDS
+JI Comput. Fluids
+PD JUL 15
+PY 2021
+VL 225
+AR 104973
+DI 10.1016/j.compfluid.2021.104973
+PG 13
+WC Computer Science, Interdisciplinary Applications; Mechanics
+SC Computer Science; Mechanics
+GA SO3SG
+UT WOS:000658895000005
+DA 2021-07-09
+ER
+
+PT J
+AU Mohammed, MQ
+   Chung, KL
+   Chyi, CS
+AF Mohammed, Marwan Qaid
+   Chung, Kwek Lee
+   Chyi, Chua Shing
+TI Review of Deep Reinforcement Learning-Based Object Grasping: Techniques,
+   Open Challenges, and Recommendations
+SO IEEE ACCESS
+LA English
+DT Review
+DE Grasping; Machine learning; Robot sensing systems; Task analysis;
+   Learning (artificial intelligence); Deep reinforcement learning; object
+   manipulation; robotic grasping
+ID ROBOT MANIPULATION; SIMULATION; PICKING; REARRANGEMENT; PLACE; MODEL;
+   POLICIES; SEARCH; DESIGN; TRENDS
+AB The motivation behind our work is to review and analyze the most relevant studies on deep reinforcement learning-based object manipulation. Various studies are examined through a survey of existing literature and investigation of various aspects, namely, the intended applications, techniques applied, challenges faced by researchers and recommendations for minimizing obstacles. This review refers to all relevant articles on deep reinforcement learning-based object manipulation and solutions. The object grasping issue is a major manipulation challenge. Object grasping requires detection systems, methods and tools to facilitate efficient and fast agent training. Several studies have proposed that object grasping and its subtypes are the main elements in dealing with the environment and agent. Unlike other review articles, this review article provides different observations on deep reinforcement learning-based manipulation. The results of this comprehensive review of deep reinforcement learning in the manipulation field may be valuable for researchers and practitioners because they can expedite the establishment of important guidelines.
+C1 [Mohammed, Marwan Qaid; Chung, Kwek Lee; Chyi, Chua Shing] Multimedia Univ MMU, Fac Engn & Technol, Ayer Keroh 75450, Malaysia.
+RP Mohammed, MQ; Chung, KL (corresponding author), Multimedia Univ MMU, Fac Engn & Technol, Ayer Keroh 75450, Malaysia.
+EM marwan.qaid.mohammed@gmail.com; lckwek@mmu.edu.my
+RI mohammed, marwan qaid/ABD-9171-2020
+OI mohammed, marwan qaid/0000-0001-9734-6267; Kwek, Lee
+   Chung/0000-0003-1242-5084
+FU Multimedia University (MMU) through the MMU GRA Scheme [MMUI/190004.02];
+   MMU Research and Development Capital Expenditure 2019 [MMUI/CAPEX190008]
+FX This work was supported in part by the Multimedia University (MMU)
+   through the MMU GRA Scheme under Grant MMUI/190004.02, and in part by
+   the MMU Research and Development Capital Expenditure 2019 under Grant
+   MMUI/CAPEX190008.
+NR 320
+TC 2
+Z9 2
+U1 15
+U2 19
+PU IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC
+PI PISCATAWAY
+PA 445 HOES LANE, PISCATAWAY, NJ 08855-4141 USA
+SN 2169-3536
+J9 IEEE ACCESS
+JI IEEE Access
+PY 2020
+VL 8
+BP 178450
+EP 178481
+DI 10.1109/ACCESS.2020.3027923
+PG 32
+WC Computer Science, Information Systems; Engineering, Electrical &
+   Electronic; Telecommunications
+SC Computer Science; Engineering; Telecommunications
+GA NZ1UP
+UT WOS:000576879700001
+OA DOAJ Gold
+DA 2021-07-09
+ER
+
+PT J
+AU Riedmiller, M
+   Gabel, T
+   Hafner, R
+   Lange, S
+AF Riedmiller, Martin
+   Gabel, Thomas
+   Hafner, Roland
+   Lange, Sascha
+TI Reinforcement learning for robot soccer
+SO AUTONOMOUS ROBOTS
+LA English
+DT Article
+DE Learning mobile robots; Autonomous learning robots; Neural control;
+   RoboCup; Batch reinforcement learning
+AB Batch reinforcement learning methods provide a powerful framework for learning efficiently and effectively in autonomous robots. The paper reviews some recent work of the authors aiming at the successful application of reinforcement learning in a challenging and complex domain. It discusses several variants of the general batch learning framework, particularly tailored to the use of multilayer perceptrons to approximate value functions over continuous state spaces. The batch learning framework is successfully used to learn crucial skills in our soccer-playing robots participating in the RoboCup competitions. This is demonstrated on three different case studies.
+C1 [Riedmiller, Martin; Gabel, Thomas; Hafner, Roland; Lange, Sascha] Univ Freiburg, Dept Comp Sci, Freiburg, Germany.
+RP Riedmiller, M (corresponding author), Univ Freiburg, Dept Comp Sci, Freiburg, Germany.
+EM martin.riedmiller@informatik.uni-freiburg.de
+FU DFG-grantGerman Research Foundation (DFG) [SPP 1125]
+FX Thanks to Christian Muller for helping with the neuro dribbling
+   experiments on our MidSize league robot. We greatfully acknowledge the
+   support of our industrial sponsors, in particular Harting Technology
+   Group, who substantially supports our work both technically and
+   financially. This work was sponsored in part by a DFG-grant within the
+   SPP 1125.
+NR 45
+TC 99
+Z9 104
+U1 2
+U2 26
+PU SPRINGER
+PI DORDRECHT
+PA VAN GODEWIJCKSTRAAT 30, 3311 GZ DORDRECHT, NETHERLANDS
+SN 0929-5593
+EI 1573-7527
+J9 AUTON ROBOT
+JI Auton. Robot.
+PD JUL
+PY 2009
+VL 27
+IS 1
+BP 55
+EP 73
+DI 10.1007/s10514-009-9120-4
+PG 19
+WC Computer Science, Artificial Intelligence; Robotics
+SC Computer Science; Robotics
+GA 461TB
+UT WOS:000267293300004
+DA 2021-07-09
+ER
+
+PT J
+AU Liu, RR
+   Nageotte, F
+   Zanne, P
+   de Mathelin, M
+   Dresp-Langley, B
+AF Liu, Rongrong
+   Nageotte, Florent
+   Zanne, Philippe
+   de Mathelin, Michel
+   Dresp-Langley, Birgitta
+TI Deep Reinforcement Learning for the Control of Robotic Manipulation: A
+   Focussed Mini-Review
+SO ROBOTICS
+LA English
+DT Review
+DE deep learning; artificial intelligence; machine learning; reinforcement
+   learning; deep reinforcement learning; robotic manipulation control;
+   sample efficiency; generalization
+AB Deep learning has provided new ways of manipulating, processing and analyzing data. It sometimes may achieve results comparable to, or surpassing human expert performance, and has become a source of inspiration in the era of artificial intelligence. Another subfield of machine learning named reinforcement learning, tries to find an optimal behavior strategy through interactions with the environment. Combining deep learning and reinforcement learning permits resolving critical issues relative to the dimensionality and scalability of data in tasks with sparse reward signals, such as robotic manipulation and control tasks, that neither method permits resolving when applied on its own. In this paper, we present recent significant progress of deep reinforcement learning algorithms, which try to tackle the problems for the application in the domain of robotic manipulation control, such as sample efficiency and generalization. Despite these continuous improvements, currently, the challenges of learning robust and versatile manipulation skills for robots with deep reinforcement learning are still far from being resolved for real-world applications.
+C1 [Liu, Rongrong; Nageotte, Florent; Zanne, Philippe; de Mathelin, Michel] Strasbourg Univ, Robot Dept, ICube Lab, UMR 7357 CNRS, F-67085 Strasbourg, France.
+   [Dresp-Langley, Birgitta] CNRS, ICube Lab, UMR 7357, F-67085 Strasbourg, France.
+RP Liu, RR (corresponding author), Strasbourg Univ, Robot Dept, ICube Lab, UMR 7357 CNRS, F-67085 Strasbourg, France.; Dresp-Langley, B (corresponding author), CNRS, ICube Lab, UMR 7357, F-67085 Strasbourg, France.
+EM rongrong.liu@unistra.fr; Nageotte@unistra.fr; philippe.zanne@unistra.fr;
+   demathelin@unistra.fr; birgitta.dresp@unistra.fr
+RI Dresp-Langley, Birgitta/F-8243-2013
+OI Dresp-Langley, Birgitta/0000-0002-2860-6472; LIU,
+   Rongrong/0000-0001-7804-1337
+FU University of Strasbourg's Initiative D'EXellence (IDEX)
+FX This research work is part of a project funded by the University of
+   Strasbourg's Initiative D'EXellence (IDEX).
+NR 77
+TC 1
+Z9 1
+U1 2
+U2 2
+PU MDPI
+PI BASEL
+PA ST ALBAN-ANLAGE 66, CH-4052 BASEL, SWITZERLAND
+EI 2218-6581
+J9 ROBOTICS
+JI Robotics
+PD MAR
+PY 2021
+VL 10
+IS 1
+AR 22
+DI 10.3390/robotics10010022
+PG 13
+WC Robotics
+SC Robotics
+GA RC9CX
+UT WOS:000633090900001
+OA DOAJ Gold, Green Published
+DA 2021-07-09
+ER
+
+PT J
+AU Jaafra, Y
+   Laurent, JL
+   Deruyver, A
+   Naceur, MS
+AF Jaafra, Yesmina
+   Laurent, Jean Luc
+   Deruyver, Aline
+   Naceur, Mohamed Saber
+TI Reinforcement learning for neural architecture search: A review
+SO IMAGE AND VISION COMPUTING
+LA English
+DT Review
+DE Reinforcement learning; Convolutional neural networks; Neural
+   Architecture Search; AutoML
+ID NETWORKS
+AB Deep neural networks are efficient and flexible models that perform well for a variety of tasks such as image, speech recognition and natural language understanding. In particular, convolutional neural networks (CNN) generate a keen interest among researchers in computer vision and more specifically in classification tasks. CNN architecture and related hyperparameters are generally correlated to the nature of the processed task as the network extracts complex and relevant characteristics allowing the optimal convergence. Designing such architectures requires significant human expertise, substantial computation time and does not always lead to the optimal network. Reinforcement learning (RL) has been extensively used in automating CNN models design generating notable advances and interesting results in the field. This work aims at reviewing and discussing the recent progress of RL methods in Neural Architecture Search task and the current challenges that still require further consideration. (C) 2019 Elsevier B.V. All rights reserved.
+C1 [Jaafra, Yesmina; Deruyver, Aline] Univ Strasbourg, lCube Lab, 300 Bd Sebastien Brant, F-67412 Illkirch Graffenstaden, France.
+   [Jaafra, Yesmina; Laurent, Jean Luc] Segula Technol, Parc Activite Pissaloup,8 Ave Jean dAlembert, F-78190 Trappes, France.
+   [Jaafra, Yesmina; Naceur, Mohamed Saber] ENIT, LTSIRS Lab, Tunis 1002, Tunisia.
+RP Jaafra, Y (corresponding author), Univ Strasbourg, lCube Lab, 300 Bd Sebastien Brant, F-67412 Illkirch Graffenstaden, France.; Jaafra, Y (corresponding author), Segula Technol, Parc Activite Pissaloup,8 Ave Jean dAlembert, F-78190 Trappes, France.; Jaafra, Y (corresponding author), ENIT, LTSIRS Lab, Tunis 1002, Tunisia.
+EM yasminajaafra@etu.unistra.fr
+OI Jaafra, Yesmina/0000-0002-2831-877X
+NR 64
+TC 18
+Z9 19
+U1 3
+U2 61
+PU ELSEVIER
+PI AMSTERDAM
+PA RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS
+SN 0262-8856
+EI 1872-8138
+J9 IMAGE VISION COMPUT
+JI Image Vis. Comput.
+PD SEP
+PY 2019
+VL 89
+BP 57
+EP 66
+DI 10.1016/j.imavis.2019.06.005
+PG 10
+WC Computer Science, Artificial Intelligence; Computer Science, Software
+   Engineering; Computer Science, Theory & Methods; Engineering, Electrical
+   & Electronic; Optics
+SC Computer Science; Engineering; Optics
+GA JA1KC
+UT WOS:000487574900006
+OA Bronze
+DA 2021-07-09
+ER
+
+PT J
+AU Mosavi, A
+   Faghan, Y
+   Ghamisi, P
+   Duan, P
+   Ardabili, SF
+   Salwana, E
+   Band, SS
+AF Mosavi, Amirhosein
+   Faghan, Yaser
+   Ghamisi, Pedram
+   Puhong Duan
+   Ardabili, Sina Faizollahzadeh
+   Salwana, Ely
+   Band, Shahab S.
+TI Comprehensive Review of Deep Reinforcement Learning Methods and
+   Applications in Economics
+SO MATHEMATICS
+LA English
+DT Review
+DE economics; deep reinforcement learning; deep learning; machine learning;
+   mathematics; applied informatics; big data; survey; literature review;
+   explainable artificial intelligence; ensemble; anomaly detection; 5G;
+   fraud detection; COVID-19; Prisma; data science; supervised learning
+ID NEURAL-NETWORKS; MODEL; PRICE; CLASSIFICATION; FINANCE; STOCK
+AB The popularity of deep reinforcement learning (DRL) applications in economics has increased exponentially. DRL, through a wide range of capabilities from reinforcement learning (RL) to deep learning (DL), offers vast opportunities for handling sophisticated dynamic economics systems. DRL is characterized by scalability with the potential to be applied to high-dimensional problems in conjunction with noisy and nonlinear patterns of economic data. In this paper, we initially consider a brief review of DL, RL, and deep RL methods in diverse applications in economics, providing an in-depth insight into the state-of-the-art. Furthermore, the architecture of DRL applied to economic applications is investigated in order to highlight the complexity, robustness, accuracy, performance, computational tasks, risk constraints, and profitability. The survey results indicate that DRL can provide better performance and higher efficiency as compared to the traditional algorithms while facing real economic problems in the presence of risk parameters and the ever-increasing uncertainties.
+C1 [Mosavi, Amirhosein] Ton Duc Thang Univ, Environm Qual Atmospher Sci & Climate Change Res, Ho Chi Minh City, Vietnam.
+   [Mosavi, Amirhosein] Ton Duc Thang Univ, Fac Environm & Labour Safety, Ho Chi Minh City, Vietnam.
+   [Faghan, Yaser] Univ Lisbon, Inst Super Econ & Gestao, P-1200781 Lisbon, Portugal.
+   [Ghamisi, Pedram] Helmholtz Zentrum Dresden Rossendorf, Chemnitzer Str 40, D-09599 Freiberg, Germany.
+   [Ghamisi, Pedram] Univ Antwerp, Fac Sci, Dept Phys, Univ Pl 1, B-2610 Antwerp, Belgium.
+   [Puhong Duan] Hunan Univ, Coll Elect & Informat Engn, Changsha 410082, Hunan, Peoples R China.
+   [Ardabili, Sina Faizollahzadeh] Univ Mohaghegh Ardabili, Dept Biosyst Engn, Ardebil 5619911367, Iran.
+   [Salwana, Ely] Univ Kebangsaan Malaysia, Inst IR4 0, Bangi 43600, Malaysia.
+   [Band, Shahab S.] Duy Tan Univ, Inst Res & Dev, Da Nang 550000, Vietnam.
+   [Band, Shahab S.] Natl Yunlin Univ Sci & Technol, Coll Future, Future Technol Res Ctr, 123 Univ Rd,Sect 3, Touliu 64002, Yunlin, Taiwan.
+RP Mosavi, A (corresponding author), Ton Duc Thang Univ, Environm Qual Atmospher Sci & Climate Change Res, Ho Chi Minh City, Vietnam.; Mosavi, A (corresponding author), Ton Duc Thang Univ, Fac Environm & Labour Safety, Ho Chi Minh City, Vietnam.; Band, SS (corresponding author), Duy Tan Univ, Inst Res & Dev, Da Nang 550000, Vietnam.; Band, SS (corresponding author), Natl Yunlin Univ Sci & Technol, Coll Future, Future Technol Res Ctr, 123 Univ Rd,Sect 3, Touliu 64002, Yunlin, Taiwan.
+EM amirhosein.mosavi@tdtu.edu.vn; yaser.kord@yahoo.com;
+   pedram.ghamisi@uantwerpen.be; puhong_duan@hnu.edu.cn;
+   Sina.faiz@uma.ac.ir; elysalwana@ukm.edu.my;
+   shamshirbandshahaboddin@duytan.edu.vn
+RI S.Band, Shahab/ABI-7388-2020; S.Band, Shahab/AAD-3311-2021; Mosavi,
+   Amir/I-7440-2018
+OI S.Band, Shahab/0000-0002-8963-731X; S.Band, Shahab/0000-0001-6109-1311;
+   Mosavi, Amir/0000-0003-4842-0613; faizollahzadeh ardabili,
+   sina/0000-0002-7744-7906; Ghamisi, Pedram/0000-0003-1203-741X
+FU Hungarian State; European UnionEuropean Commission
+   [EFOP-3.6.1-16-2016-00010, 2017-1.3.1-VKE-2017-00025]; New Szechenyi
+   Plan [EFOP-3.6.2-16-2017-00016]; European Social FundEuropean Social
+   Fund (ESF)
+FX We acknowledge the financial support of this work by the Hungarian State
+   and the European Union under the EFOP-3.6.1-16-2016-00010 project and
+   the 2017-1.3.1-VKE-2017-00025 project. The research presented in this
+   paper was carried out as part of the EFOP-3.6.2-16-2017-00016 project in
+   the framework of the New Szechenyi Plan. The completion of this project
+   is funded by the European Union and co-financed by the European Social
+   Fund. We acknowledge the financial support of this work by the Hungarian
+   State and the European Union under the EFOP-3.6.1-16-2016-00010 project.
+NR 122
+TC 4
+Z9 4
+U1 9
+U2 15
+PU MDPI
+PI BASEL
+PA ST ALBAN-ANLAGE 66, CH-4052 BASEL, SWITZERLAND
+EI 2227-7390
+J9 MATHEMATICS-BASEL
+JI Mathematics
+PD OCT
+PY 2020
+VL 8
+IS 10
+AR 1640
+DI 10.3390/math8101640
+PG 42
+WC Mathematics
+SC Mathematics
+GA OL2UD
+UT WOS:000585196500001
+OA DOAJ Gold
+DA 2021-07-09
+ER
+
+PT J
+AU Khan, MA
+   Khan, MRJ
+   Tooshil, A
+   Sikder, N
+   Mahmud, MAP
+   Kouzani, AZ
+   Abdullah-Al, N
+AF Khan, Md. Al-Masrur
+   Khan, Md Rashed Jaowad
+   Tooshil, Abul
+   Sikder, Niloy
+   Mahmud, M. A. Parvez
+   Kouzani, Abbas Z.
+   Abdullah-Al Nahid
+TI A Systematic Review on Reinforcement Learning-Based Robotics Within the
+   Last Decade
+SO IEEE ACCESS
+LA English
+DT Review
+DE Robot kinematics; Systematics; Reinforcement learning; Task analysis;
+   Automation; Service robots; Bibliometric analysis; reinforcement
+   learning; robotics; systematic review
+ID NAVIGATION; LEVEL; EXPLORATION; AGENTS
+AB Robotics is one of the many tools that is making a substantial difference as the world is experiencing the fourth industrial revolution. To ease control over this engineering marvel substantially, Reinforcement Learning (RL) has paved its way in recent years quite remarkably. RL enables robots to become self-aware towards carrying out a specific task followed by user operations. For decades of rigorous endeavor, this research field has gone through numerous groundbreaking developments and it will be the same for the coming days. Therefore, this paper steps in to enlighten the scientific community with a systemic review of the published research papers within the past decade. The bibliographic data that is extracted from the papers are analyzed using an automated tool named Vosviewer with respect to some parameters. Substantial excerpts from the most influential papers are highlighted in this work. Furthermore, this paper points out the global research practice in this field. The paper also generates some intriguing questions and answers them in regards to the research topic. After reading this paper, future researchers will have a firm idea in the RL-based robotics and will be able to incorporate in their own research.
+C1 [Khan, Md. Al-Masrur; Khan, Md Rashed Jaowad; Tooshil, Abul; Abdullah-Al Nahid] Khulna Univ, Elect & Commun Engn Discipline, Khulna 9208, Bangladesh.
+   [Sikder, Niloy] Khulna Univ, Comp Sci & Engn Discipline, Khulna 9208, Bangladesh.
+   [Mahmud, M. A. Parvez; Kouzani, Abbas Z.] Deakin Univ, Sch Engn, Geelong, Vic 3216, Australia.
+RP Abdullah-Al, N (corresponding author), Khulna Univ, Elect & Commun Engn Discipline, Khulna 9208, Bangladesh.
+EM nahid.ece.ku@gmail.com
+OI Sikder, Niloy/0000-0002-9016-6105; Khan, Md.
+   Al-Masrur/0000-0002-1729-4071; Kouzani, Abbas Z./0000-0002-6292-1214
+NR 101
+TC 0
+Z9 0
+U1 5
+U2 7
+PU IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC
+PI PISCATAWAY
+PA 445 HOES LANE, PISCATAWAY, NJ 08855-4141 USA
+SN 2169-3536
+J9 IEEE ACCESS
+JI IEEE Access
+PY 2020
+VL 8
+BP 176598
+EP 176623
+DI 10.1109/ACCESS.2020.3027152
+PG 26
+WC Computer Science, Information Systems; Engineering, Electrical &
+   Electronic; Telecommunications
+SC Computer Science; Engineering; Telecommunications
+GA NW5WR
+UT WOS:000575083900001
+OA DOAJ Gold
+DA 2021-07-09
+ER
+
+PT S
+AU Mousavi, SS
+   Schukat, M
+   Howley, E
+AF Mousavi, Seyed Sajad
+   Schukat, Michael
+   Howley, Enda
+BE Bi, Y
+   Kapoor, S
+   Bhatia, R
+TI Deep Reinforcement Learning: An Overview
+SO PROCEEDINGS OF SAI INTELLIGENT SYSTEMS CONFERENCE (INTELLISYS) 2016, VOL
+   2
+SE Lecture Notes in Networks and Systems
+LA English
+DT Proceedings Paper
+CT SAI Annual Conference on Areas of Intelligent Systems and Artificial
+   Intelligence and their Applications to the Real World (IntelliSys)
+CY SEP 21-22, 2016
+CL London, ENGLAND
+SP SAI, UKRI Comp Chapter, HPCC Syst, IEEE, IBM Watson AI XPrize
+DE Reinforcement learning; Deep leaning; Neural networks; MDPs; Observable
+   MDPs
+ID REPRESENTATIONS; NETWORK
+AB In recent years, a specific machine learning method called deep learning has gained huge attraction, as it has obtained astonishing results in broad applications such as pattern recognition, speech recognition, computer vision, and natural language processing. Recent research has also been shown that deep learning techniques can be combined with reinforcement learning methods to learn useful representations for the problems with high dimensional raw data input. This article reviews the recent advances in deep reinforcement learning with focus on the most used deep architectures such as autoencoders, convolutional neural networks and recurrent neural networks which have successfully been come together with the reinforcement learning framework.
+C1 [Mousavi, Seyed Sajad; Schukat, Michael; Howley, Enda] Natl Univ Ireland, Coll Engn & Informat, Galway, Ireland.
+RP Mousavi, SS (corresponding author), Natl Univ Ireland, Coll Engn & Informat, Galway, Ireland.
+EM s.mousavil@nuigalway.ie; michael.schukat@nuigalway.ie;
+   ehowley@nuigalway.ie
+RI Howley, Enda/AAM-3581-2020; Bi, Fan/R-9511-2017
+OI Howley, Enda/0000-0003-2687-4630; Bi, Fan/0000-0003-1844-9685
+NR 45
+TC 21
+Z9 22
+U1 12
+U2 42
+PU SPRINGER INTERNATIONAL PUBLISHING AG
+PI CHAM
+PA GEWERBESTRASSE 11, CHAM, CH-6330, SWITZERLAND
+SN 2367-3370
+EI 2367-3389
+BN 978-3-319-56991-8; 978-3-319-56990-1
+J9 LECT NOTE NETW SYST
+PY 2018
+VL 16
+BP 426
+EP 440
+DI 10.1007/978-3-319-56991-8_32
+PG 15
+WC Computer Science, Artificial Intelligence; Computer Science,
+   Interdisciplinary Applications; Computer Science, Theory & Methods
+SC Computer Science
+GA BL1YO
+UT WOS:000448662500032
+DA 2021-07-09
+ER
+
+PT J
+AU Lamata, L
+AF Lamata, Lucas
+TI Quantum Reinforcement Learning with Quantum Photonics
+SO PHOTONICS
+LA English
+DT Review
+DE quantum machine learning; quantum reinforcement learning; quantum
+   photonics; quantum technologies; quantum communication
+AB Quantum machine learning has emerged as a promising paradigm that could accelerate machine learning calculations. Inside this field, quantum reinforcement learning aims at designing and building quantum agents that may exchange information with their environment and adapt to it, with the aim of achieving some goal. Different quantum platforms have been considered for quantum machine learning and specifically for quantum reinforcement learning. Here, we review the field of quantum reinforcement learning and its implementation with quantum photonics. This quantum technology may enhance quantum computation and communication, as well as machine learning, via the fruitful marriage between these previously unrelated fields.
+C1 [Lamata, Lucas] Univ Seville, Dept Fis Atom Mol & Nucl, Apartado Correos 1065, Seville 41080, Spain.
+RP Lamata, L (corresponding author), Univ Seville, Dept Fis Atom Mol & Nucl, Apartado Correos 1065, Seville 41080, Spain.
+EM llamata@us.es
+RI Lamata, Lucas/B-2439-2009
+OI Lamata, Lucas/0000-0002-9504-8685
+FU [PGC2018-095113-B-I00];  [PID2019-104002GB-C21];  [PID2019-104002GB-C22]
+FX This research was funded by PGC2018-095113-B-I00, PID2019-104002GB-C21,
+   and PID2019-104002GB-C22 (MCIU/AEI/FEDER, UE).
+NR 42
+TC 0
+Z9 0
+U1 3
+U2 3
+PU MDPI
+PI BASEL
+PA ST ALBAN-ANLAGE 66, CH-4052 BASEL, SWITZERLAND
+EI 2304-6732
+J9 PHOTONICS-BASEL
+JI Photonics
+PD FEB
+PY 2021
+VL 8
+IS 2
+AR 33
+DI 10.3390/photonics8020033
+PG 8
+WC Optics
+SC Optics
+GA QO2UR
+UT WOS:000623001500001
+OA DOAJ Gold, Green Published
+DA 2021-07-09
+ER
+
+PT S
+AU Samsuden, MA
+   Diah, NM
+   Rahman, NA
+AF Samsuden, Mohd Azmin
+   Diah, Norizan Mat
+   Rahman, Nurazzah Abdul
+GP IEEE
+TI A Review Paper on Implementing Reinforcement Learning Technique in
+   Optimising Games Performance
+SO 2019 IEEE 9TH INTERNATIONAL CONFERENCE ON SYSTEM ENGINEERING AND
+   TECHNOLOGY (ICSET)
+SE International Conference on System Engineering and Technology
+LA English
+DT Proceedings Paper
+CT 9th IEEE International Conference on System Engineering and Technology
+   (ICSET)
+CY OCT 07, 2019
+CL Shah Alam, MALAYSIA
+SP IEEE, Univ Teknologi Mara, Fac Elect Engn, IEEE Malaysia Sect Control Syst Soc Chapter, IEEE Control Syst Soc, Inst Teknologi Bandung, Univ Teknologi Mara
+DE machine learning; games; reinforcement learning; Q-learning; SARSA; DQN;
+   DDPG
+AB Reinforcement learning is one of the sub of machine learning. A machine learning agent learns from the feedback of the try-and-error in order to predict their next step. Machine learning can be use on various field and one of them is games. The challenge to win a game is that the player needs to come up with a good strategy. In order to produce good strategy, player need to play the game multiple time which are time, energy and money consuming. The objective of this research is to introduce a reinforcement learning agent in game that run the simulation of the game and produce improved results after each iteration. Then human can imitate the agent performance in order to improve their chance of winning the game. Reinforcement learning can be implemented in various method. This paper will focus more on Q-learning and State-Action-Reward-State-Action (SARSA) method. Both methods are chosen as both are almost similar except Q-learning is off-policy algorithm and SARSA is on-policy algorithm. The results of this paper is a list of results from previous research related to Q-learning and SARSA on different test field or setting. The second results are the proposed reinforcement learning methodology what will cover on understanding data, categorizing problem, finding the available algorithm and implementing the algorithm.
+C1 [Samsuden, Mohd Azmin; Diah, Norizan Mat; Rahman, Nurazzah Abdul] Univ Teknol MARA, Fac Comp & Math Sci, Shah Alam 40450, Malaysia.
+RP Samsuden, MA (corresponding author), Univ Teknol MARA, Fac Comp & Math Sci, Shah Alam 40450, Malaysia.
+EM mohdazmin@ymail.com; norizan@fsk.uitm.edu.my; nurazzah@fskm.uitm.edu.my
+RI Diah, Norizan Mat/AAL-5558-2020
+OI Diah, Norizan Mat/0000-0002-3785-948X
+FU Universiti Teknologi Mara (UiTM)
+FX We would like to thank the authority of Universiti Teknologi Mara (UiTM)
+   for providing us with a financial and facilities to complete this
+   project.
+NR 29
+TC 0
+Z9 0
+U1 0
+U2 1
+PU IEEE
+PI NEW YORK
+PA 345 E 47TH ST, NEW YORK, NY 10017 USA
+SN 2470-640X
+BN 978-1-7281-0758-5
+J9 INT CONF SYST ENG
+PY 2019
+BP 258
+EP 263
+PG 6
+WC Computer Science, Information Systems; Engineering, Electrical &
+   Electronic
+SC Computer Science; Engineering
+GA BO6IT
+UT WOS:000520130100047
+DA 2021-07-09
+ER
+
+PT J
+AU Hua, J
+   Zeng, LC
+   Li, GF
+   Ju, ZJ
+AF Hua, Jiang
+   Zeng, Liangcai
+   Li, Gongfa
+   Ju, Zhaojie
+TI Learning for a Robot: Deep Reinforcement Learning, Imitation Learning,
+   Transfer Learning
+SO SENSORS
+LA English
+DT Review
+DE dexterous manipulation; adaptive and robust control; deep reinforcement
+   learning; imitation learning; transfer learning
+AB Dexterous manipulation of the robot is an important part of realizing intelligence, but manipulators can only perform simple tasks such as sorting and packing in a structured environment. In view of the existing problem, this paper presents a state-of-the-art survey on an intelligent robot with the capability of autonomous deciding and learning. The paper first reviews the main achievements and research of the robot, which were mainly based on the breakthrough of automatic control and hardware in mechanics. With the evolution of artificial intelligence, many pieces of research have made further progresses in adaptive and robust control. The survey reveals that the latest research in deep learning and reinforcement learning has paved the way for highly complex tasks to be performed by robots. Furthermore, deep reinforcement learning, imitation learning, and transfer learning in robot control are discussed in detail. Finally, major achievements based on these methods are summarized and analyzed thoroughly, and future research challenges are proposed.
+C1 [Hua, Jiang; Zeng, Liangcai; Li, Gongfa] Wuhan Univ Sci & Technol, Key Lab Met Equipment & Control Technol, Minist Educ, Wuhan 430081, Peoples R China.
+   [Ju, Zhaojie] Univ Portsmouth, Sch Comp, Portsmouth, Hants, England.
+RP Ju, ZJ (corresponding author), Univ Portsmouth, Sch Comp, Portsmouth, Hants, England.
+EM huajiang@wust.edu.cn; zengliangcai@wust.edu.cn; ligongfa@wust.edu.cn;
+   zhaojie.ju@port.ac.uk
+OI li, gongfa/0000-0002-2695-2742
+FU European Regional Development FundEuropean Commission; National Natural
+   Science Foundation of ChinaNational Natural Science Foundation of China
+   (NSFC) [52075530, 51975425]
+FX The authors would like to acknowledge the support from the AiBle project
+   co-financed by the European Regional Development Fund and National
+   Natural Science Foundation of China (grant No. 52075530 and No.
+   51975425).
+NR 147
+TC 0
+Z9 0
+U1 6
+U2 6
+PU MDPI
+PI BASEL
+PA ST ALBAN-ANLAGE 66, CH-4052 BASEL, SWITZERLAND
+EI 1424-8220
+J9 SENSORS-BASEL
+JI Sensors
+PD FEB
+PY 2021
+VL 21
+IS 4
+AR 1278
+DI 10.3390/s21041278
+PG 21
+WC Chemistry, Analytical; Engineering, Electrical & Electronic; Instruments
+   & Instrumentation
+SC Chemistry; Engineering; Instruments & Instrumentation
+GA QQ6VL
+UT WOS:000624660700001
+PM 33670109
+OA DOAJ Gold, Green Published
+DA 2021-07-09
+ER
+
+PT J
+AU Chater, N
+AF Chater, Nick
+TI Rational and mechanistic perspectives on reinforcement learning
+SO COGNITION
+LA English
+DT Review
+DE Reinforcement learning; Cognitive penetrability; Rationality;
+   Explanation; Conditioning
+ID PREFRONTAL CORTEX; INSTANCE THEORY; CONTINGENCY; INSTRUCTIONS;
+   PREDICTION; AWARENESS; TIME; MISBEHAVIOR; ACQUISITION; EXPECTANCY
+AB This special issue describes important recent developments in applying reinforcement learning models to capture neural and cognitive function. But reinforcement learning, as a theoretical framework, can apply at two very different levels of description: mechanistic and rational. Reinforcement learning is often viewed in mechanistic terms - as describing the operation of aspects of an agent's cognitive and neural machinery. Yet it can also be viewed as a rational level of description, specifically, as describing a class of methods for learning from experience, using minimal background knowledge. This paper considers how rational and mechanistic perspectives differ, and what types of evidence distinguish between them. Reinforcement learning research in the cognitive and brain sciences is often implicitly committed to the mechanistic interpretation. Here the opposite view is put forward: that accounts of reinforcement learning should apply at the rational level, unless there is strong evidence for a mechanistic interpretation. Implications of this viewpoint for reinforcement-based theories in the cognitive and brain sciences are discussed. (C) 2008 Elsevier B.V. All rights reserved.
+C1 UCL, Ctr Econ Learning & Social Evolut, Div Psychol & Language Sci, London WC1E 6BT, England.
+RP Chater, N (corresponding author), UCL, Ctr Econ Learning & Social Evolut, Div Psychol & Language Sci, London WC1E 6BT, England.
+EM n.chater@ucl.ac.uk
+FU Economic and Social Research CouncilUK Research & Innovation
+   (UKRI)Economic & Social Research Council (ESRC) [RES-538-28-1001]
+   Funding Source: researchfish
+NR 113
+TC 21
+Z9 21
+U1 0
+U2 13
+PU ELSEVIER
+PI AMSTERDAM
+PA RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS
+SN 0010-0277
+EI 1873-7838
+J9 COGNITION
+JI Cognition
+PD DEC
+PY 2009
+VL 113
+IS 3
+SI SI
+BP 350
+EP 364
+DI 10.1016/j.cognition.2008.06.014
+PG 15
+WC Psychology, Experimental
+SC Psychology
+GA 527JJ
+UT WOS:000272363000007
+PM 18722597
+DA 2021-07-09
+ER
+
+PT J
+AU Kober, J
+   Bagnell, JA
+   Peters, J
+AF Kober, Jens
+   Bagnell, J. Andrew
+   Peters, Jan
+TI Reinforcement learning in robotics: A survey
+SO INTERNATIONAL JOURNAL OF ROBOTICS RESEARCH
+LA English
+DT Review
+DE Reinforcement learning; learning control; robot; survey
+ID REAL ROBOT; POLICY GRADIENT; BEHAVIOR; ACQUISITION; PERCEPTION;
+   LOCOMOTION; SKILLS
+AB Reinforcement learning offers to robotics a framework and set of tools for the design of sophisticated and hard-to-engineer behaviors. Conversely, the challenges of robotic problems provide both inspiration, impact, and validation for developments in reinforcement learning. The relationship between disciplines has sufficient promise to be likened to that between physics and mathematics. In this article, we attempt to strengthen the links between the two research communities by providing a survey of work in reinforcement learning for behavior generation in robots. We highlight both key challenges in robot reinforcement learning as well as notable successes. We discuss how contributions tamed the complexity of the domain and study the role of algorithms, representations, and prior knowledge in achieving these successes. As a result, a particular focus of our paper lies on the choice between model-based and model-free as well as between value-function-based and policy-search methods. By analyzing a simple problem in some detail we demonstrate how reinforcement learning approaches may be profitably applied, and we note throughout open questions and the tremendous potential for future research.
+C1 [Kober, Jens] Univ Bielefeld, CoR Lab Res Inst Cognit & Robot, D-33615 Bielefeld, Germany.
+   [Kober, Jens] Honda Res Inst Europe, Offenbach, Germany.
+   [Bagnell, J. Andrew] Carnegie Mellon Univ, Inst Robot, Pittsburgh, PA 15213 USA.
+   [Peters, Jan] Max Planck Inst Intelligent Syst, Dept Empir Inference, Tubingen, Germany.
+   [Peters, Jan] Tech Univ Darmstadt, FB Informat, FG Intelligent Autonomous Syst, Darmstadt, Germany.
+RP Kober, J (corresponding author), Univ Bielefeld, CoR Lab Res Inst Cognit & Robot, Univ Str 25, D-33615 Bielefeld, Germany.
+EM jkober@cor-lab.uni-bielefeld.de
+RI Peters, Jan/P-6027-2019; Kober, Jens/I-9119-2017
+OI Peters, Jan/0000-0002-5266-8091; Kober, Jens/0000-0001-7257-5434
+FU European CommunityEuropean Commission [ICT-248273 GeRT, ICT-270327
+   CompLACS]; Defense Advanced Research Project Agency through Autonomous
+   Robotics Manipulation-Software; Office of Naval Research
+   Multidisciplinary University Research Initiatives Distributed Reasoning
+   in Reduced Information Spaces and Provably Stable Vision-Based Control
+   of High-Speed Flight through Forests and Urban Environments
+FX The was supported by the European Community's Seventh Framework
+   Programme (grant numbers ICT-248273 GeRT and ICT-270327 CompLACS), the
+   Defense Advanced Research Project Agency through Autonomous Robotics
+   Manipulation-Software and the Office of Naval Research Multidisciplinary
+   University Research Initiatives Distributed Reasoning in Reduced
+   Information Spaces and Provably Stable Vision-Based Control of
+   High-Speed Flight through Forests and Urban Environments.
+NR 222
+TC 668
+Z9 696
+U1 49
+U2 403
+PU SAGE PUBLICATIONS LTD
+PI LONDON
+PA 1 OLIVERS YARD, 55 CITY ROAD, LONDON EC1Y 1SP, ENGLAND
+SN 0278-3649
+EI 1741-3176
+J9 INT J ROBOT RES
+JI Int. J. Robot. Res.
+PD SEP
+PY 2013
+VL 32
+IS 11
+BP 1238
+EP 1274
+DI 10.1177/0278364913495721
+PG 37
+WC Robotics
+SC Robotics
+GA 217YI
+UT WOS:000324398800002
+DA 2021-07-09
+ER
+
+PT J
+AU Ab Azar, N
+   Shahmansoorian, A
+   Davoudi, M
+AF Ab Azar, Nematollah
+   Shahmansoorian, Aref
+   Davoudi, Mohsen
+TI From inverse optimal control to inverse reinforcement learning: A
+   historical review
+SO ANNUAL REVIEWS IN CONTROL
+LA English
+DT Review
+DE Inverse optimal control; Inverse reinforcement learning; Learning from
+   demonstration; Imitation learning
+ID CONTROL LYAPUNOV FUNCTIONS; OPTIMAL ADAPTIVE-CONTROL; MOVEMENT
+   PRIMITIVES; STABILITY MARGINS; DYNAMICAL-SYSTEM; LQ DESIGN;
+   STABILIZATION; OPTIMIZATION; IMITATION; MODELS
+AB Inverse optimal control (IOC) is a powerful theory that addresses the inverse problems in control systems, robotics, Machine Learning (ML) and optimization taking into account the optimal manners. This paper reviews the history of the IOC and Inverse Reinforcement Learning (IRL) approaches and describes the connections and differences between them to cover the research gap in the existing literature. The general formulation of IOC/IRL is described and the related methods are categorized based on a hierarchical approach. For this purpose, IOC methods are categorized under two classes, namely classic and modern approaches. The classic IOC is typically formulated for control systems, while IRL, as a modern approach to IOC, is considered for machine learning problems. Despite the presence of a handful of IOC/IRL methods, a comprehensive categorization of these methods is lacking. In addition to the IOC/IRL problems, this paper elaborates, where necessary, on other relevant concepts such as Learning from Demonstration (LfD), Imitation Learning (IL), and Behavioral Cloning. Some of the challenges encountered in the IOC/IRL problems are further discussed in this work, including ill-posedness, non-convexity, data availability, non-linearity, the curses of complexity and dimensionality, feature selection, and generalizability. (C) 2020 Elsevier Ltd. All rights reserved.
+C1 [Ab Azar, Nematollah; Shahmansoorian, Aref; Davoudi, Mohsen] Imam Khomeini Int Univ IKIU, Dept Elect Engn, Qazvin, Iran.
+RP Ab Azar, N (corresponding author), Imam Khomeini Int Univ IKIU, Dept Elect Engn, Qazvin, Iran.
+EM n.abazar@edu.ikiu.ac.ir; shahmansoorian@eng.ikiu.ac.ir;
+   davoudi@eng.ikiu.ac.ir
+RI Azar, Nematollah Ab/W-8827-2019
+OI Azar, Nematollah Ab/0000-0002-8368-9143
+NR 252
+TC 3
+Z9 3
+U1 3
+U2 3
+PU PERGAMON-ELSEVIER SCIENCE LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, ENGLAND
+SN 1367-5788
+EI 1872-9088
+J9 ANNU REV CONTROL
+JI Annu. Rev. Control
+PY 2020
+VL 50
+BP 119
+EP 138
+DI 10.1016/j.arcontrol.2020.06.001
+PG 20
+WC Automation & Control Systems
+SC Automation & Control Systems
+GA PH6WV
+UT WOS:000600551200006
+DA 2021-07-09
+ER
+
+PT J
+AU Doroudi, S
+   Aleven, V
+   Brunskill, E
+AF Doroudi, Shayan
+   Aleven, Vincent
+   Brunskill, Emma
+TI Where's the Reward?: A Review of Reinforcement Learning for
+   Instructional Sequencing
+SO INTERNATIONAL JOURNAL OF ARTIFICIAL INTELLIGENCE IN EDUCATION
+LA English
+DT Review
+DE Reinforcement learning; Instructional sequencing; Adaptive instruction;
+   History of artificial intelligence in education
+ID TEACHING STRATEGIES; WORKED EXAMPLES; KNOWLEDGE; ALLOCATION; EXPERTISE;
+   GAME; EFFICIENCY; RETENTION; SELECTION; IMPROVE
+AB Since the 1960s, researchers have been trying to optimize the sequencing of instructional activities using the tools of reinforcement learning (RL) and sequential decision making under uncertainty. Many researchers have realized that reinforcement learning provides a natural framework for optimal instructional sequencing given a particular model of student learning, and excitement towards this area of research is as alive now as it was over fifty years ago. But does RL actually help students learn? If so, when and where might we expect it to be most helpful? To help answer these questions, we review the variety of attempts to use RL for instructional sequencing. First, we present a historical narrative of this research area. We identify three waves of research, which gives us a sense of the various communities of researchers that have been interested in this problem and where the field is going. Second, we review all of the empirical research that has compared RL-induced instructional policies to baseline methods of sequencing. We find that over half of the studies found that RL-induced policies significantly outperform baselines. Moreover, we identify five clusters of studies with different characteristics and varying levels of success in using RL to help students learn. We find that reinforcement learning has been most successful in cases where it has been constrained with ideas and theories from cognitive psychology and the learning sciences. However, given that our theories and models are limited, we also find that it has been useful to complement this approach with running more robust offline analyses that do not rely heavily on the assumptions of one particular model. Given that many researchers are turning to deep reinforcement learning and big data to tackle instructional sequencing, we believe keeping these best practices in mind can help guide the way to the reward in using RL for instructional sequencing.
+C1 [Doroudi, Shayan] Carnegie Mellon Univ, Comp Sci Dept, Pittsburgh, PA 15213 USA.
+   [Doroudi, Shayan; Brunskill, Emma] Stanford Univ, Comp Sci Dept, Stanford, CA 94305 USA.
+   [Doroudi, Shayan] Univ Calif Irvine, Sch Educ, Irvine, CA 92697 USA.
+   [Aleven, Vincent] Carnegie Mellon Univ, Human Comp Interact Inst, Pittsburgh, PA 15213 USA.
+RP Doroudi, S (corresponding author), Carnegie Mellon Univ, Comp Sci Dept, Pittsburgh, PA 15213 USA.; Doroudi, S (corresponding author), Stanford Univ, Comp Sci Dept, Stanford, CA 94305 USA.; Doroudi, S (corresponding author), Univ Calif Irvine, Sch Educ, Irvine, CA 92697 USA.
+EM doroudis@uci.edu
+FU Institute of Education Sciences, U.S. Department of EducationUS
+   Department of Education [R305A130215, R305B150008]; Google; Microsoft
+   Research Faculty Fellowship
+FX The research reported here was supported in part by the Institute of
+   Education Sciences, U.S. Department of Education, through Grants
+   R305A130215 and R305B150008 to Carnegie Mellon University. This research
+   was also supported in part by a Google grant and a Microsoft Research
+   Faculty Fellowship. The opinions expressed are those of the authors and
+   do not represent views of the Institute of Education Sciences, the U.S.
+   Dept. of Education, Google, or Microsoft. The authors thank the
+   reviewers and editor for their thoughtful reviews and for suggesting
+   changes that have led to a significantly improved paper.
+NR 178
+TC 2
+Z9 2
+U1 3
+U2 14
+PU SPRINGER
+PI NEW YORK
+PA 233 SPRING ST, NEW YORK, NY 10013 USA
+SN 1560-4292
+EI 1560-4306
+J9 INT J ARTIF INTELL E
+JI Int. J. Artif. Intell. Educ.
+PD DEC
+PY 2019
+VL 29
+IS 4
+BP 568
+EP 620
+DI 10.1007/s40593-019-00187-x
+PG 53
+WC Computer Science, Interdisciplinary Applications
+SC Computer Science
+GA JY9TK
+UT WOS:000504748200005
+DA 2021-07-09
+ER
+
+PT J
+AU Barto, AG
+   Mahadevan, S
+AF Barto, AG
+   Mahadevan, S
+TI Recent advances in hierarchical reinforcement learning
+SO DISCRETE EVENT DYNAMIC SYSTEMS-THEORY AND APPLICATIONS
+LA English
+DT Article
+DE reinforcement learning; Markov decision processes; semi-Markov decision
+   processes; hierarchy; temporal abstraction
+ID CONVERGENCE; FRAMEWORK; GAME
+AB Reinforcement learning is bedeviled by the curse of dimensionality: the number of parameters to be learned grows exponentially with the size of any compact encoding of a state. Recent attempts to combat the curse of dimensionality have turned to principled ways of exploiting temporal abstraction, where decisions are not required at each step, but rather invoke the execution of temporally-extended activities which follow their own policies until termination. This leads naturally to hierarchical control architectures and associated learning algorithms. We review several approaches to temporal abstraction and hierarchical organization that machine learning researchers have recently developed. Common to these approaches is a reliance on the theory of semi-Markov decision processes, which we emphasize in our review. We then discuss extensions of these ideas to concurrent activities, multiagent coordination, and hierarchical memory for addressing partial observability. Concluding remarks address open challenges facing the further development of reinforcement learning in a hierarchical setting.
+C1 Univ Massachusetts, Dept Comp Sci, Autonomous Learning Lab, Amherst, MA 01003 USA.
+RP Barto, AG (corresponding author), Univ Massachusetts, Dept Comp Sci, Autonomous Learning Lab, Amherst, MA 01003 USA.
+EM barto@cs.umass.edu; mahadeva@cs.umass.edu
+NR 91
+TC 228
+Z9 228
+U1 0
+U2 12
+PU SPRINGER
+PI NEW YORK
+PA 233 SPRING ST, NEW YORK, NY 10013 USA
+SN 0924-6703
+EI 1573-7594
+J9 DISCRETE EVENT DYN S
+JI Discret. Event Dyn. Syst.-Theory Appl.
+PD OCT
+PY 2003
+VL 13
+IS 4
+BP 343
+EP 379
+PG 37
+WC Automation & Control Systems; Operations Research & Management Science;
+   Mathematics, Applied
+SC Automation & Control Systems; Operations Research & Management Science;
+   Mathematics
+GA 719QA
+UT WOS:000185213500003
+DA 2021-07-09
+ER
+
+PT J
+AU Zhu, RQ
+   Zeng, DL
+   Kosorok, MR
+AF Zhu, Ruoqing
+   Zeng, Donglin
+   Kosorok, Michael R.
+TI Reinforcement Learning Trees
+SO JOURNAL OF THE AMERICAN STATISTICAL ASSOCIATION
+LA English
+DT Article
+DE Consistency; Error bound; Random forests; Reinforcement learning; Trees
+ID RANDOM FORESTS; RANDOMIZED TREES; CLASSIFICATION; SELECTION;
+   CONSISTENCY; LASSO; MODEL
+AB In this article, we introduce a new type of tree-based method, reinforcement learning trees (RLT), which exhibits significantly improved performance over traditional methods such as random forests (Breiman 2001) under high-dimensional settings. The innovations are threefold. First, the new method implements reinforcement learning at each selection of a splitting variable during the tree construction processes. By splitting on the variable that brings the greatest future improvement in later splits, rather than choosing the one with largest marginal effect from the immediate split, the constructed tree uses the available samples in a more efficient way. Moreover, such an approach enables linear combination cuts at little extra computational cost. Second, we propose a variable muting procedure that progressively eliminates noise variables during the construction of each individual tree. The muting procedure also takes advantage of reinforcement learning and prevents noise variables from being considered in the search for splitting rules, so that toward terminal nodes, where the sample size is small, the splitting rules are still constructed from only strong variables. Last, we investigate asymptotic properties of the proposed method under basic assumptions and discuss rationale in general settings. Supplementary materials for this article are available online.
+C1 [Zhu, Ruoqing; Zeng, Donglin; Kosorok, Michael R.] Univ N Carolina, Dept Biostat, CB 7420, Chapel Hill, NC 27599 USA.
+RP Zhu, RQ (corresponding author), Univ N Carolina, Dept Biostat, CB 7420, Chapel Hill, NC 27599 USA.
+EM rqzhu@illinois.edu; dzeng@email.unc.edu; Kosorok@unc.edu
+OI Zhu, Ruoqing/0000-0002-0753-5716
+FU National Cancer InstituteUnited States Department of Health & Human
+   ServicesNational Institutes of Health (NIH) - USANIH National Cancer
+   Institute (NCI) [P01 CA142538]; National Institute of Neurological
+   Disorders and StrokeUnited States Department of Health & Human
+   ServicesNational Institutes of Health (NIH) - USANIH National Institute
+   of Neurological Disorders & Stroke (NINDS) [U01 NS082062]; NATIONAL
+   CANCER INSTITUTEUnited States Department of Health & Human
+   ServicesNational Institutes of Health (NIH) - USANIH National Cancer
+   Institute (NCI) [R01CA082659, P01CA142538] Funding Source: NIH RePORTER;
+   NATIONAL INSTITUTE OF NEUROLOGICAL DISORDERS AND STROKEUnited States
+   Department of Health & Human ServicesNational Institutes of Health (NIH)
+   - USANIH National Institute of Neurological Disorders & Stroke (NINDS)
+   [U01NS082062] Funding Source: NIH RePORTER
+FX R. Zhu (E-mail: rqzhu@illinois.edu) is a student, D. Zeng (E-mail:
+   dzeng@email.unc.edu) is Professor, and M. R. Kosorok (E-mail:
+   Kosorok@unc.edu) is W. R. Kenan, Jr. Distinguished Professor and Chair,
+   Department of Biostatistics, CB#7420, University of North Carolina,
+   Chapel Hill, NC 27599-7420. The authors thank the editors and reviewers
+   for their careful review and thoughtful suggestions, which led to a
+   significantly improved article. The authors were funded in part by
+   grants P01 CA142538 from the National Cancer Institute and U01 NS082062
+   from the National Institute of Neurological Disorders and Stroke.
+NR 28
+TC 47
+Z9 47
+U1 0
+U2 12
+PU AMER STATISTICAL ASSOC
+PI ALEXANDRIA
+PA 732 N WASHINGTON ST, ALEXANDRIA, VA 22314-1943 USA
+SN 0162-1459
+EI 1537-274X
+J9 J AM STAT ASSOC
+JI J. Am. Stat. Assoc.
+PD DEC
+PY 2015
+VL 110
+IS 512
+BP 1770
+EP 1784
+DI 10.1080/01621459.2015.1036994
+PG 15
+WC Statistics & Probability
+SC Mathematics
+GA DB8WK
+UT WOS:000368797700047
+PM 26903687
+OA Green Accepted, Green Published
+DA 2021-07-09
+ER
+
+PT J
+AU Shao, ZF
+   Joo, EM
+AF Shao Zhifei
+   Joo, Er Meng
+TI A survey of inverse reinforcement learning techniques
+SO INTERNATIONAL JOURNAL OF INTELLIGENT COMPUTING AND CYBERNETICS
+LA English
+DT Review
+DE Inverse reinforcement learning; Reward function; Reinforcement learning;
+   Artificial intelligence; Learning methods
+ID ROBOT; IMITATION
+AB Purpose - This purpose of this paper is to provide an overview of the theoretical background and applications of inverse reinforcement learning (IRL).
+   Design/methodology/approach - Reinforcement learning (RL) techniques provide a powerful solution for sequential decision making problems under uncertainty. RL uses an agent equipped with a reward function to find a policy through interactions with a dynamic environment. However, one major assumption of existing RL algorithms is that reward function, the most succinct representation of the designer's intention, needs to be provided beforehand. In practice, the reward function can be very hard to specify and exhaustive to tune for large and complex problems, and this inspires the development of IRL, an extension of RL, which directly tackles this problem by learning the reward function through expert demonstrations. In this paper, the original IRL algorithms and its close variants, as well as their recent advances are reviewed and compared.
+   Findings - This paper can serve as an introduction guide of fundamental theory and developments, as well as the applications of IRL.
+   Originality/value - This paper surveys the theories and applications of IRL, which is the latest development of RL and has not been done so far.
+C1 [Shao Zhifei; Joo, Er Meng] Nanyang Technol Univ, Sch Elect & Elect Engn, Singapore, Singapore.
+RP Joo, EM (corresponding author), Nanyang Technol Univ, Sch Elect & Elect Engn, Singapore, Singapore.
+EM emjer@ntu.edu.sg
+NR 58
+TC 36
+Z9 36
+U1 0
+U2 1
+PU EMERALD GROUP PUBLISHING LTD
+PI BINGLEY
+PA HOWARD HOUSE, WAGON LANE, BINGLEY BD16 1WA, W YORKSHIRE, ENGLAND
+SN 1756-378X
+EI 1756-3798
+J9 INT J INTELL COMPUT
+JI Int. J. Intell. Comput. Cybern.
+PY 2012
+VL 5
+IS 3
+SI SI
+BP 293
+EP 311
+DI 10.1108/17563781211255862
+PG 19
+WC Computer Science, Cybernetics
+SC Computer Science
+GA V5E6U
+UT WOS:000219539100003
+DA 2021-07-09
+ER
+
+PT J
+AU Gronauer, S
+   Diepold, K
+AF Gronauer, Sven
+   Diepold, Klaus
+TI Multi-agent deep reinforcement learning: a survey
+SO ARTIFICIAL INTELLIGENCE REVIEW
+LA English
+DT Article; Early Access
+DE Multi-agent systems; Multi-agent learning; Machine learning;
+   Reinforcement learning; Deep learning; Survey
+ID COMPREHENSIVE SURVEY; DECENTRALIZED CONTROL; GAMES; COMPLEXITY;
+   LEARNERS; SYSTEMS; AGENTS; TRUST; LEVEL
+AB The advances in reinforcement learning have recorded sublime success in various domains. Although the multi-agent domain has been overshadowed by its single-agent counterpart during this progress, multi-agent reinforcement learning gains rapid traction, and the latest accomplishments address problems with real-world complexity. This article provides an overview of the current developments in the field of multi-agent deep reinforcement learning. We focus primarily on literature from recent years that combines deep reinforcement learning methods with a multi-agent scenario. To survey the works that constitute the contemporary landscape, the main contents are divided into three parts. First, we analyze the structure of training schemes that are applied to train multiple agents. Second, we consider the emergent patterns of agent behavior in cooperative, competitive and mixed scenarios. Third, we systematically enumerate challenges that exclusively arise in the multi-agent domain and review methods that are leveraged to cope with these challenges. To conclude this survey, we discuss advances, identify trends, and outline possible directions for future work in this research area.
+C1 [Gronauer, Sven; Diepold, Klaus] Tech Univ Munich TUM, Dept Elect & Comp Engn, Arcisstr 21, D-80333 Munich, Germany.
+RP Gronauer, S (corresponding author), Tech Univ Munich TUM, Dept Elect & Comp Engn, Arcisstr 21, D-80333 Munich, Germany.
+EM sven.gronauer@tum.de; kldi@tum.de
+FU Projekt DEAL
+FX Open Access funding enabled and organized by `Projekt DEAL.
+NR 253
+TC 0
+Z9 0
+U1 7
+U2 7
+PU SPRINGER
+PI DORDRECHT
+PA VAN GODEWIJCKSTRAAT 30, 3311 GZ DORDRECHT, NETHERLANDS
+SN 0269-2821
+EI 1573-7462
+J9 ARTIF INTELL REV
+JI Artif. Intell. Rev.
+DI 10.1007/s10462-021-09996-w
+EA APR 2021
+PG 49
+WC Computer Science, Artificial Intelligence
+SC Computer Science
+GA RN6TL
+UT WOS:000640484200003
+OA Other Gold
+DA 2021-07-09
+ER
+
+PT J
+AU Al-Rawi, HAA
+   Ng, MA
+   Yau, KLA
+AF Al-Rawi, Hasan A. A.
+   Ng, Ming Ann
+   Yau, Kok-Lim Alvin
+TI Application of reinforcement learning to routing in distributed wireless
+   networks: a review
+SO ARTIFICIAL INTELLIGENCE REVIEW
+LA English
+DT Article
+DE Q-routing; Routing; Wireless networks; Q-learning; Reinforcement
+   learning
+ID SENSOR NETWORKS
+AB The dynamicity of distributed wireless networks caused by node mobility, dynamic network topology, and others has been a major challenge to routing in such networks. In the traditional routing schemes, routing decisions of a wireless node may solely depend on a predefined set of routing policies, which may only be suitable for a certain network circumstances. Reinforcement Learning (RL) has been shown to address this routing challenge by enabling wireless nodes to observe and gather information from their dynamic local operating environment, learn, and make efficient routing decisions on the fly. In this article, we focus on the application of the traditional, as well as the enhanced, RL models, to routing in wireless networks. The routing challenges associated with different types of distributed wireless networks, and the advantages brought about by the application of RL to routing are identified. In general, three types of RL models have been applied to routing schemes in order to improve network performance, namely Q-routing, multi-agent reinforcement learning, and partially observable Markov decision process. We provide an extensive review on new features in RL-based routing, and how various routing challenges and problems have been approached using RL. We also present a real hardware implementation of a RL-based routing scheme. Subsequently, we present performance enhancements achieved by the RL-based routing schemes. Finally, we discuss various open issues related to RL-based routing schemes in distributed wireless networks, which help to explore new research directions in this area. Discussions in this article are presented in a tutorial manner in order to establish a foundation for further research in this field.
+C1 [Al-Rawi, Hasan A. A.; Ng, Ming Ann; Yau, Kok-Lim Alvin] Sunway Univ, Fac Sci & Technol, Dept Comp Sci & Networked Syst, Petaling Jaya 46150, Selangor, Malaysia.
+RP Al-Rawi, HAA (corresponding author), Sunway Univ, Fac Sci & Technol, Dept Comp Sci & Networked Syst, 5 Jalan Univ,Bandar Sunway, Petaling Jaya 46150, Selangor, Malaysia.
+EM h.al-rawi@lancaster.ac.uk
+RI Yau, Kok Lim Alvin/B-1672-2012
+OI Yau, Kok Lim Alvin/0000-0003-3110-2782
+NR 46
+TC 33
+Z9 33
+U1 3
+U2 55
+PU SPRINGER
+PI DORDRECHT
+PA VAN GODEWIJCKSTRAAT 30, 3311 GZ DORDRECHT, NETHERLANDS
+SN 0269-2821
+EI 1573-7462
+J9 ARTIF INTELL REV
+JI Artif. Intell. Rev.
+PD MAR
+PY 2015
+VL 43
+IS 3
+BP 381
+EP 416
+DI 10.1007/s10462-012-9383-6
+PG 36
+WC Computer Science, Artificial Intelligence
+SC Computer Science
+GA CB4KZ
+UT WOS:000349597900003
+DA 2021-07-09
+ER
+
+PT S
+AU Salfinger, A
+AF Salfinger, Andrea
+BE Rogova, G
+   McGeorge, N
+   Ruvinsky, A
+   Fouse, S
+   Freiman, M
+TI Reinforcement Learning Meets Cognitive Situation Management: A Review of
+   Recent Learning Approaches from the Cognitive Situation Management
+   Perspective
+SO 2020 IEEE INTERNATIONAL CONFERENCE ON COGNITIVE AND COMPUTATIONAL
+   ASPECTS OF SITUATION MANAGEMENT (IEEE COGSIMA)
+SE IEEE Conference on Cognitive and Computational Aspects of Situation
+   Management
+LA English
+DT Proceedings Paper
+CT IEEE International Conference on Cognitive and Computational Aspects of
+   Situation Management (IEEE CogSIMA)
+CY AUG 22-28, 2020
+CL ELECTR NETWORK
+SP IEEE, IEEE Syst, Man & Cybernet Soc, Univ Victoria, Int Soc Informat Fus
+DE reinforcement learning; representation learning; cognitive situation
+   management
+ID NEURAL-NETWORKS; DEEP; LEVEL
+AB With Reinforcement Learning (RL), artificial agents learn reaching their goals "in the wild", i.e., from interacting with their environments. By learning to perform the correct action(s) in the given situation, RL thus adopts an action or decisioncentric problem orientation. Conversely, the field of Cognitive Situation Management (CogSiMa), more originating from the control field, focuses on managing the encountered situations, i.e., environment states, such that the desired goal situations are reached or maintained. Whereas both fields of research thus appear complementary in pursuing similar overall goals, RL and CogSiMa have largely evolved independently from each other, leading to terminological gaps, misconceptions and unawareness of potentially related research. The present review attempts to bridge these gaps by providing an integrated framework highlighting the intersections between RL and CogSiMa: We outline how RL in real-world problem domains relates to CogSiMa, aim to bridge the terminological gaps between these distinct communities, and hope to provide the grounding for a crossfertilization between these distinct research areas. We contribute a review of recent RL developments and discuss their implications and potential for CogSiMa.
+C1 [Salfinger, Andrea] Johannes Kepler Univ Linz, Dept Cooperat Informat Syst, Altenberger Str 69, A-4040 Linz, Austria.
+RP Salfinger, A (corresponding author), Johannes Kepler Univ Linz, Dept Cooperat Informat Syst, Altenberger Str 69, A-4040 Linz, Austria.
+EM andrea.salfinger@cis.jku.at
+FU Austrian Science Fund (FWF)Austrian Science Fund (FWF) [FWF T961-N31]
+FX This work has been funded by the Austrian Science Fund (FWF) under grant
+   FWF T961-N31.
+NR 61
+TC 0
+Z9 0
+U1 0
+U2 0
+PU IEEE
+PI NEW YORK
+PA 345 E 47TH ST, NEW YORK, NY 10017 USA
+SN 2379-1667
+BN 978-1-7281-6001-6
+J9 IEEE CONF COGNIT
+PY 2020
+BP 76
+EP 84
+PG 9
+WC Computer Science, Artificial Intelligence; Computer Science, Theory &
+   Methods
+SC Computer Science
+GA BR0FU
+UT WOS:000628978500011
+DA 2021-07-09
+ER
+
+PT S
+AU Liu, G
+AF Liu, Gang
+BE Xu, Z
+   Choo, KKR
+   Dehghantanha, A
+   Parizi, R
+   Hammoudeh, M
+TI Research on Robot Control Based on Reinforcement Learning
+SO CYBER SECURITY INTELLIGENCE AND ANALYTICS
+SE Advances in Intelligent Systems and Computing
+LA English
+DT Proceedings Paper
+CT International Conference on Cyber Security Intelligence and Analytics
+   (CSIA)
+CY FEB 21-22, 2019
+CL Shenyang, PEOPLES R CHINA
+DE Reinforcement learning; Robot control; Environment restoration;
+   Operation method
+ID NAVIGATION
+AB This paper reviews the rise and the development of the deep reinforcement learning (DRL). Then, the deep reinforcement learning algorithms for the high-dimensional continuous action space are divided into three categories of the algorithm based on the value function approximation, the algorithm based on the strategy approximation and the algorithm based on other structures. The latest representative algorithms and their characteristics of the deep reinforcement learning are explained in details, and their ideas, advantages and disadvantages are emphasized. Finally, combined with the development direction of the deep reinforcement learning algorithm, the control mechanism of using the deep reinforcement learning method to solve the control mechanism in the robotics problems is prospected.
+C1 [Liu, Gang] Hefei Univ, Dept Mech Engn, Hefei 230601, Anhui, Peoples R China.
+RP Liu, G (corresponding author), Hefei Univ, Dept Mech Engn, Hefei 230601, Anhui, Peoples R China.
+EM ncydyedu@yeah.net
+FU Key Natural Science Research Projects of Anhui Universities
+   [KJ2018A0552]
+FX Foundation Project: Key Natural Science Research Projects of Anhui
+   Universities (Project Grant No. KJ2018A0552).
+NR 8
+TC 0
+Z9 0
+U1 2
+U2 41
+PU SPRINGER INTERNATIONAL PUBLISHING AG
+PI CHAM
+PA GEWERBESTRASSE 11, CHAM, CH-6330, SWITZERLAND
+SN 2194-5357
+EI 2194-5365
+BN 978-3-030-15235-2; 978-3-030-15234-5
+J9 ADV INTELL SYST
+PY 2020
+VL 928
+BP 136
+EP 141
+DI 10.1007/978-3-030-15235-2_21
+PG 6
+WC Computer Science, Artificial Intelligence; Computer Science, Theory &
+   Methods
+SC Computer Science
+GA BO0EU
+UT WOS:000490430400021
+DA 2021-07-09
+ER
+
+PT J
+AU Mammeri, Z
+AF Mammeri, Zoubir
+TI Reinforcement Learning Based Routing in Networks: Review and
+   Classification of Approaches
+SO IEEE ACCESS
+LA English
+DT Review
+DE Reinforcement learning; communication networks; routing protocols; path
+   optimization; quality of service
+ID WIRELESS SENSOR NETWORKS; COMMUNICATION; EFFICIENT; PROTOCOL; VANETS
+AB Reinforcement learning (RL), which is a class of machine learning, provides a framework by which a system can learn from its previous interactions with its environment to efficiently select its actions in the future. RL has been used in a number of application fields, including game playing, robotics and control, networks, and telecommunications, for building autonomous systems that improve themselves with experience. It is commonly accepted that RL is suitable for solving optimization problems related to distributed systems in general and to routing in networks in particular. RL also has reasonable overhead-in terms of control packets, memory and computation-compared to other optimization techniques used to solve the same problems. Since the mid-1990s, over 60 protocols have been proposed, with major or minor contributions in the field of optimal route selection to convey packets in different types of communication networks under various user QoS requirements. This paper provides a comprehensive review of the literature on the topic. The review is structured in a way that shows how network characteristics and requirements were gradually considered over time. Classification criteria are proposed to present and qualitatively compare existing RL-based routing protocols.
+C1 [Mammeri, Zoubir] Paul Sabatier Univ, IRIT, F-31062 Toulouse, France.
+RP Mammeri, Z (corresponding author), Paul Sabatier Univ, IRIT, F-31062 Toulouse, France.
+EM zoubir.mammeri@irit.fr
+OI Mammeri, Zoubir/0000-0003-4164-9597
+NR 103
+TC 17
+Z9 19
+U1 2
+U2 11
+PU IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC
+PI PISCATAWAY
+PA 445 HOES LANE, PISCATAWAY, NJ 08855-4141 USA
+SN 2169-3536
+J9 IEEE ACCESS
+JI IEEE Access
+PY 2019
+VL 7
+BP 55916
+EP 55950
+DI 10.1109/ACCESS.2019.2913776
+PG 35
+WC Computer Science, Information Systems; Engineering, Electrical &
+   Electronic; Telecommunications
+SC Computer Science; Engineering; Telecommunications
+GA HX7UA
+UT WOS:000467610400001
+OA DOAJ Gold
+DA 2021-07-09
+ER
+
+PT S
+AU Recht, B
+AF Recht, Benjamin
+BE Leonard, NE
+TI A Tour of Reinforcement Learning: The View from Continuous Control
+SO ANNUAL REVIEW OF CONTROL, ROBOTICS, AND AUTONOMOUS SYSTEMS, VOL 2
+SE Annual Review of Control Robotics and Autonomous Systems
+LA English
+DT Article; Book Chapter
+DE reinforcement learning; control theory; machine learning; optimization
+ID STOCHASTIC-APPROXIMATION; SYSTEM-IDENTIFICATION; ALGORITHMS; COMPLEXITY;
+   SAFE
+AB This article surveys reinforcement learning from the perspective of optimization and control, with a focus on continuous control applications. It reviews the general formulation, terminology, and typical experimental implementations of reinforcement learning as well as competing solution paradigms. In order to compare the relative merits of various techniques, it presents a case study of the linear quadratic regulator (LQR) with unknown dynamics, perhaps the simplest and best-studied problem in optimal control. It also describes how merging techniques from learning theory and control can provide nonasymptotic characterizations of LQR performance and shows that these characterizations tend to match experimental behavior. In turn, when revisiting more complex applications, many of the observed phenomena in LQR persist. In particular, theory and experiment demonstrate the role and importance of models and the cost of generality in reinforcement learning algorithms. The article concludes with a discussion of some of the challenges in designing learning systems that safely and reliably interact with complex and uncertain environments and how tools from reinforcement learning and control might be combined to approach these challenges.
+C1 [Recht, Benjamin] Univ Calif Berkeley, Dept Elect Engn & Comp Sci, Berkeley, CA 94720 USA.
+RP Recht, B (corresponding author), Univ Calif Berkeley, Dept Elect Engn & Comp Sci, Berkeley, CA 94720 USA.
+EM brecht@berkeley.edu
+NR 92
+TC 46
+Z9 46
+U1 2
+U2 14
+PU ANNUAL REVIEWS
+PI PALO ALTO
+PA 4139 EL CAMINO WAY, PO BOX 10139, PALO ALTO, CA 94303-0897 USA
+SN 2573-5144
+J9 ANNU REV CONTR ROBOT
+PY 2019
+VL 2
+BP 253
+EP 279
+DI 10.1146/annurev-control-053018-023825
+PG 27
+WC Automation & Control Systems; Robotics
+SC Automation & Control Systems; Robotics
+GA BM7BL
+UT WOS:000467686900011
+DA 2021-07-09
+ER
+
+PT J
+AU Heuillet, A
+   Couthouis, F
+   Diaz-Rodriguez, N
+AF Heuillet, Alexandre
+   Couthouis, Fabien
+   Diaz-Rodriguez, Natalia
+TI Explainability in deep reinforcement learning
+SO KNOWLEDGE-BASED SYSTEMS
+LA English
+DT Article
+DE Reinforcement Learning; Explainable artificial intelligence; Machine
+   Learning; Deep Learning; Responsible artificial intelligence;
+   Representation learning
+AB A large set of the explainable Artificial Intelligence (XAI) literature is emerging on feature relevance techniques to explain a deep neural network (DNN) output or explaining models that ingest image source data. However, assessing how XAI techniques can help understand models beyond classification tasks, e.g. for reinforcement learning (RL), has not been extensively studied. We review recent works in the direction to attain Explainable Reinforcement Learning (XRL), a relatively new subfield of Explainable Artificial Intelligence, intended to be used in general public applications, with diverse audiences, requiring ethical, responsible and trustable algorithms. In critical situations where it is essential to justify and explain the agent's behaviour, better explainability and interpretability of RL models could help gain scientific insight on the inner workings of what is still considered a black box. We evaluate mainly studies directly linking explainability to RL, and split these into two categories according to the way the explanations are generated: transparent algorithms and post-hoc explainability. We also review the most prominent XAI works from the lenses of how they could potentially enlighten the further deployment of the latest advances in RL, in the demanding present and future of everyday problems. (C) 2020 Elsevier B.V. All rights reserved.
+C1 [Heuillet, Alexandre] Bordeaux INP, ENSEIRB MATMECA, 1 Ave Docteur Albert Schweitzer, F-33400 Talence, France.
+   [Couthouis, Fabien] Bordeaux INP, ENSC, 109 Ave Roul, F-33400 Talence, France.
+   [Diaz-Rodriguez, Natalia] Inst Polytech Paris, Inria Flowers Team, ENSTA Paris, 828 Blvd Marechaux, F-91762 Palaiseau, France.
+RP Diaz-Rodriguez, N (corresponding author), Inst Polytech Paris, Inria Flowers Team, ENSTA Paris, 828 Blvd Marechaux, F-91762 Palaiseau, France.
+EM aheuillet@enseirb-matmeca.fr; fcouthouis@ensc.fr;
+   natalia.diaz@ensta-paris.fr
+OI Heuillet, Alexandre/0000-0003-2109-7895
+NR 116
+TC 0
+Z9 0
+U1 8
+U2 8
+PU ELSEVIER
+PI AMSTERDAM
+PA RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS
+SN 0950-7051
+EI 1872-7409
+J9 KNOWL-BASED SYST
+JI Knowledge-Based Syst.
+PD FEB 28
+PY 2021
+VL 214
+AR 106685
+DI 10.1016/j.knosys.2020.106685
+PG 14
+WC Computer Science, Artificial Intelligence
+SC Computer Science
+GA QH9OK
+UT WOS:000618603300002
+DA 2021-07-09
+ER
+
+PT J
+AU Chen, C
+   Takahashi, T
+   Nakagawa, S
+   Inoue, T
+   Kusumi, I
+AF Chen, Chong
+   Takahashi, Taiki
+   Nakagawa, Shin
+   Inoue, Takeshi
+   Kusumi, Ichiro
+TI Reinforcement learning in depression: A review of computational research
+SO NEUROSCIENCE AND BIOBEHAVIORAL REVIEWS
+LA English
+DT Review
+DE Anhedonia; Computational psychiatry; Depression; Dopamine; Incentive
+   salience; Learning rate; 'Liking'; Model-free; Model-based; Motivation;
+   Prediction error; Reinforcement learning; Reward sensitivity; Stress;
+   'Wanting'
+ID DEEP BRAIN-STIMULATION; TREATMENT-RESISTANT DEPRESSION; VENTRAL
+   TEGMENTAL AREA; TRANSCRANIAL MAGNETIC STIMULATION; O-METHYLTRANSFERASE
+   COMT; MEDIAL PREFRONTAL CORTEX; ERROR-RELATED NEGATIVITY; DORSAL RAPHE
+   NUCLEUS; VESICULAR NEUROTRANSMITTER TRANSPORTERS; BEHAVIORAL ACTIVATION
+   TREATMENTS
+AB Despite being considered primarily a mood disorder, major depressive disorder (MDD) is characterized by cognitive and decision making deficits. Recent research has employed computational models of reinforcement learning (RL) to address these deficits. The computational approach has the advantage in making explicit predictions about learning and behavior, specifying the process parameters of RL, differentiating between model-free and model-based RL, and the computational model-based functional magnetic resonance imaging and electroencephalography. With these merits there has been an emerging field of computational psychiatry and here we review specific studies that focused on MDD.
+   Considerable evidence suggests that MDD is associated with impaired brain signals of reward prediction error and expected value ('wanting'), decreased reward sensitivity ('liking') and/or learning (be it model-free or model-based), etc., although the causality remains unclear. These parameters may serve as valuable intermediate phenotypes of MDD, linking general clinical symptoms to underlying molecular dysfunctions. We believe future computational research at clinical, systems, and cellular/molecular/genetic levels will propel us toward a better understanding of the disease. (C) 2015 Elsevier Ltd. All rights reserved.
+C1 [Chen, Chong; Nakagawa, Shin; Inoue, Takeshi; Kusumi, Ichiro] Hokkaido Univ, Grad Sch Med, Dept Psychiat, Sapporo, Hokkaido 0608638, Japan.
+   [Takahashi, Taiki] Hokkaido Univ, Dept Behav Sci, Ctr Expt Res Social Sci, Sapporo, Hokkaido 0600810, Japan.
+RP Chen, C (corresponding author), Hokkaido Univ, Grad Sch Med, Dept Psychiat, Kita Ku, Kita 15,Nishi 7, Sapporo, Hokkaido 0608638, Japan.
+EM cchen@med.hokudai.ac.jp
+RI Chen, Chong/F-7448-2015; Inoue, Takeshi/X-8057-2019; Inoue,
+   Takeshi/D-7431-2012
+OI Chen, Chong/0000-0002-3189-7397; Inoue, Takeshi/0000-0001-5248-1289
+FU Ministry of Education, Culture, Sports, Science and Technology of
+   JapanMinistry of Education, Culture, Sports, Science and Technology,
+   Japan (MEXT) [23118001]
+FX The authors thank three anonymous reviewers for their thoughtful
+   comments and suggestions to improve the earlier manuscript. The authors
+   are grateful to Peter Dayan, Kent C. Berridge, Minori Koga, and Yukiko
+   Ogura for their valuable discussions and/or comments. The authors also
+   thank Alexandre Y. Dombrovski for answering questions about their
+   research. The research reported in this paper was supported by a grant
+   from the Grant-in-Aid for Scientific Research (Global COE and on
+   Innovative Areas, 23118001; Adolescent Mind and Self-Regulation) to T.T.
+   from the Ministry of Education, Culture, Sports, Science and Technology
+   of Japan.
+NR 351
+TC 60
+Z9 65
+U1 3
+U2 90
+PU PERGAMON-ELSEVIER SCIENCE LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, ENGLAND
+SN 0149-7634
+EI 1873-7528
+J9 NEUROSCI BIOBEHAV R
+JI Neurosci. Biobehav. Rev.
+PD AUG
+PY 2015
+VL 55
+BP 247
+EP 267
+DI 10.1016/j.neubiorev.2015.05.005
+PG 21
+WC Behavioral Sciences; Neurosciences
+SC Behavioral Sciences; Neurosciences & Neurology
+GA CN2SA
+UT WOS:000358271000019
+PM 25979140
+DA 2021-07-09
+ER
+
+PT J
+AU Liu, CM
+   Xu, X
+   Hu, DW
+AF Liu, Chunming
+   Xu, Xin
+   Hu, Dewen
+TI Multiobjective Reinforcement Learning: A Comprehensive Overview
+SO IEEE TRANSACTIONS ON SYSTEMS MAN CYBERNETICS-SYSTEMS
+LA English
+DT Article
+DE Markov decision process (MDP); multiobjective reinforcement learning
+   (MORL); Pareto front; reinforcement learning (RL); sequential
+   decision-making
+ID POLICY ITERATION; OPTIMIZATION; CONVERGENCE; ALGORITHMS
+AB Reinforcement learning (RL) is a powerful paradigm for sequential decision-making under uncertainties, and most RL algorithms aim to maximize some numerical value which represents only one long-term objective. However, multiple long-term objectives are exhibited in many real-world decision and control systems, so recently there has been growing interest in solving multiobjective reinforcement learning (MORL) problems where there are multiple conflicting objectives. The aim of this paper is to present a comprehensive overview of MORL. The basic architecture, research topics, and naive solutions of MORL are introduced at first. Then, several representative MORL approaches and some important directions of recent research are comprehensively reviewed. The relationships between MORL and other related research are also discussed, which include multiobjective optimization, hierarchical RL, and multiagent RL. Moreover, research challenges and open problems of MORL techniques are suggested.
+C1 [Liu, Chunming] Natl Univ Def Technol, Coll Mechatron & Automat, Changsha 410073, Hunan, Peoples R China.
+   [Xu, Xin] Natl Univ Def Technol, Coll Mechatron & Automat, Inst Unmanned Syst, Changsha 410073, Hunan, Peoples R China.
+   [Hu, Dewen] Natl Univ Def Technol, Coll Mechatron & Automat, Dept Automat Control, Changsha 410073, Hunan, Peoples R China.
+RP Liu, CM (corresponding author), Natl Univ Def Technol, Coll Mechatron & Automat, Changsha 410073, Hunan, Peoples R China.
+EM xinxu@nudt.edu.cn; dwhu@nudt.edu.cn
+RI Hu, Dewen/AAN-8511-2020; Hu, Dewen/D-1978-2015
+FU Program for New Century Excellent Talents in UniversitiesProgram for New
+   Century Excellent Talents in University (NCET) [NCET-10-0901]; National
+   Fundamental Research Program of China [2013CB329401]
+FX This work was supported in part by the Program for New Century Excellent
+   Talents in Universities under Grant NCET-10-0901 and in part by the
+   National Fundamental Research Program of China under Grant 2013CB329401.
+NR 104
+TC 84
+Z9 85
+U1 5
+U2 57
+PU IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC
+PI PISCATAWAY
+PA 445 HOES LANE, PISCATAWAY, NJ 08855-4141 USA
+SN 2168-2216
+J9 IEEE T SYST MAN CY-S
+JI IEEE Trans. Syst. Man Cybern. -Syst.
+PD MAR
+PY 2015
+VL 45
+IS 3
+BP 385
+EP 398
+DI 10.1109/TSMC.2014.2358639
+PG 14
+WC Automation & Control Systems; Computer Science, Cybernetics
+SC Automation & Control Systems; Computer Science
+GA CC2AE
+UT WOS:000350145900002
+DA 2021-07-09
+ER
+
+PT J
+AU Cao, D
+   Hu, WH
+   Zhao, JB
+   Zhang, GZ
+   Zhang, B
+   Liu, Z
+   Chen, Z
+   Blaabjerg, F
+AF Cao, Di
+   Hu, Weihao
+   Zhao, Junbo
+   Zhang, Guozhou
+   Zhang, Bin
+   Liu, Zhou
+   Chen, Zhe
+   Blaabjerg, Frede
+TI Reinforcement Learning and Its Applications in Modern Power and Energy
+   Systems: A Review
+SO JOURNAL OF MODERN POWER SYSTEMS AND CLEAN ENERGY
+LA English
+DT Review
+DE Uncertainty; Systems operation; Reinforcement learning; Smart meters;
+   Power systems; Distributed power generation; Optimization; Reinforcement
+   learning; deep reinforcement learning; power system operation and
+   control; optimization
+ID MANAGEMENT; STRATEGY; AUCTION
+AB With the growing integration of distributed energy resources (DERs), flexible loads, and other emerging technologies, there are increasing complexities and uncertainties for modern power and energy systems. This brings great challenges to the operation and control. Besides, with the deployment of advanced sensor and smart meters, a large number of data are generated, which brings opportunities for novel data-driven methods to deal with complicated operation and control issues. Among them, reinforcement learning (RL) is one of the most widely promoted methods for control and optimization problems. This paper provides a comprehensive literature review of RL in terms of basic ideas, various types of algorithms, and their applications in power and energy systems. The challenges and further works are also discussed.
+C1 [Cao, Di; Hu, Weihao; Zhang, Guozhou; Zhang, Bin] Univ Elect Sci & Technol China, Sch Mech & Elect Engn, Wide Area Measurement & Control Sichuan Prov Key, Chengdu, Peoples R China.
+   [Zhao, Junbo] Mississippi State Univ, Dept Elect & Comp Engn, Starkville, MS USA.
+   [Liu, Zhou; Chen, Zhe; Blaabjerg, Frede] Aalborg Univ, Dept Energy Technol, Aalborg, Denmark.
+RP Hu, WH (corresponding author), Univ Elect Sci & Technol China, Sch Mech & Elect Engn, Wide Area Measurement & Control Sichuan Prov Key, Chengdu, Peoples R China.
+EM caodi@std.uestc.edu.cn; whu@uestc.edu.cn; junbo@ece.msstate.edu;
+   zgz@std.uestc.edu.cn; sven@uestc.edu.cn; zli@et.aau.dk; zch@et.aau.dk;
+   fbl@et.aau.dk
+RI Hu, Weihao/AAE-7945-2019; Blaabjerg, Frede/A-5008-2008; Zhao,
+   Junbo/R-8341-2019
+OI Hu, Weihao/0000-0002-7019-7289; Blaabjerg, Frede/0000-0001-8311-7412;
+   Zhao, Junbo/0000-0002-8498-9666; Chen, Zhe/0000-0002-2919-4481
+FU Sichuan Science and Technology Program (Sichuan Distinguished Young
+   Scholars) [2020JDJQ0037]
+FX This work was supported by the Sichuan Science and Technology Program
+   (Sichuan Distinguished Young Scholars) (No. 2020JDJQ0037).
+NR 99
+TC 3
+Z9 3
+U1 5
+U2 5
+PU IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC
+PI PISCATAWAY
+PA 445 HOES LANE, PISCATAWAY, NJ 08855-4141 USA
+SN 2196-5625
+EI 2196-5420
+J9 J MOD POWER SYST CLE
+JI J. Mod. Power Syst. Clean Energy
+PD NOV
+PY 2020
+VL 8
+IS 6
+BP 1029
+EP 1042
+DI 10.35833/MPCE.2020.000552
+PG 14
+WC Engineering, Electrical & Electronic
+SC Engineering
+GA PT8AQ
+UT WOS:000608833600002
+OA DOAJ Gold
+DA 2021-07-09
+ER
+
+PT J
+AU Varghese, NV
+   Mahmoud, QH
+AF Vithayathil Varghese, Nelson
+   Mahmoud, Qusay H.
+TI A Survey of Multi-Task Deep Reinforcement Learning
+SO ELECTRONICS
+LA English
+DT Review
+DE reinforcement learning; deep learning; neural networks; transfer
+   learning; multi-tasking; deep reinforcement learning; actor-mimic;
+   policy distillation; distraction dilemma; exploration
+ID NEURAL-NETWORKS
+AB Driven by the recent technological advancements within the field of artificial intelligence research, deep learning has emerged as a promising representation learning technique across all of the machine learning classes, especially within the reinforcement learning arena. This new direction has given rise to the evolution of a new technological domain named deep reinforcement learning, which combines the representational learning power of deep learning with existing reinforcement learning methods. Undoubtedly, the inception of deep reinforcement learning has played a vital role in optimizing the performance of reinforcement learning-based intelligent agents with model-free based approaches. Although these methods could improve the performance of agents to a greater extent, they were mainly limited to systems that adopted reinforcement learning algorithms focused on learning a single task. At the same moment, the aforementioned approach was found to be relatively data-inefficient, particularly when reinforcement learning agents needed to interact with more complex and rich data environments. This is primarily due to the limited applicability of deep reinforcement learning algorithms to many scenarios across related tasks from the same environment. The objective of this paper is to survey the research challenges associated with multi-tasking within the deep reinforcement arena and present the state-of-the-art approaches by comparing and contrasting recent solutions, namely DISTRAL (DIStill & TRAnsfer Learning), IMPALA(Importance Weighted Actor-Learner Architecture) and PopArt that aim to address core challenges such as scalability, distraction dilemma, partial observability, catastrophic forgetting and negative knowledge transfer.
+C1 [Vithayathil Varghese, Nelson; Mahmoud, Qusay H.] Ontario Tech Univ, Dept Elect Comp & Software Engn, Oshawa, ON L1G 0C5, Canada.
+RP Varghese, NV (corresponding author), Ontario Tech Univ, Dept Elect Comp & Software Engn, Oshawa, ON L1G 0C5, Canada.
+EM nelson.vithayathilvarghese@ontariotechu.net;
+   qusay.mahmoud@ontariotechu.ca
+OI H. Mahmoud, Qusay/0000-0003-0472-5757; Vithayathil Varghese,
+   Nelson/0000-0002-0792-1035
+FU Natural Sciences and Engineering Research Council of Canada
+   (NSERC)Natural Sciences and Engineering Research Council of Canada
+   (NSERC)
+FX We acknowledge the support of the Natural Sciences and Engineering
+   Research Council of Canada (NSERC).
+NR 55
+TC 2
+Z9 2
+U1 7
+U2 11
+PU MDPI
+PI BASEL
+PA ST ALBAN-ANLAGE 66, CH-4052 BASEL, SWITZERLAND
+EI 2079-9292
+J9 ELECTRONICS-SWITZ
+JI Electronics
+PD SEP
+PY 2020
+VL 9
+IS 9
+AR 1363
+DI 10.3390/electronics9091363
+PG 21
+WC Computer Science, Information Systems; Engineering, Electrical &
+   Electronic; Physics, Applied
+SC Computer Science; Engineering; Physics
+GA OD9LN
+UT WOS:000580165900001
+OA DOAJ Gold
+DA 2021-07-09
+ER
+
+EF
