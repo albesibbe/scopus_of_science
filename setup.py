@@ -4,7 +4,7 @@ with open('README.md') as f:
     long_description = f.read()
 
 setup(name='scopus_of_science',
-      version='0.0.3',
+      version='0.0.4',
       description='Merge Scopus and WoS databases in Scopus csv format',
       url='https://github.com/albesibbe/scopus_of_science',
       author='Alberto Silvestri',
