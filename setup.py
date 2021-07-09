@@ -14,8 +14,6 @@ setup(name='scopus_of_science',
       packages=find_packages(),
       install_requires=[
           'pandas',
-          're',
-          'os',
       ],
       keywords=['Scopus', 'Web of Science', 'wos'],
       classifiers=[
